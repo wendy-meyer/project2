@@ -1,662 +1,662 @@
 year,state,candidate,party,writein,candidatevotes,totalvotes
-2012,Alabama,"Romney, Mitt",republican,False,1255925,2074338
-2012,Alabama,"Obama, Barack H.",democrat,False,795696,2074338
-2012,Alabama,,independent,False,18706,2074338
+2012,Alabama,"Romney, Mitt",Republican,False,1255925,2074338
+2012,Alabama,"Obama, Barack H.",Democrat,False,795696,2074338
+2012,Alabama,,Independent,False,18706,2074338
 2012,Alabama,,,True,4011,2074338
-2012,Alaska,"Romney, Mitt",republican,False,164676,300495
-2012,Alaska,"Obama, Barack H.",democrat,False,122640,300495
-2012,Alaska,"Johnson, Gary",libertarian,False,7392,300495
-2012,Alaska,"Stein, Jill",green,False,2917,300495
+2012,Alaska,"Romney, Mitt",Republican,False,164676,300495
+2012,Alaska,"Obama, Barack H.",Democrat,False,122640,300495
+2012,Alaska,"Johnson, Gary",Libertarian,False,7392,300495
+2012,Alaska,"Stein, Jill",Green,False,2917,300495
 2012,Alaska,,,True,2870,300495
-2012,Arizona,"Romney, Mitt",republican,False,1233654,2299254
-2012,Arizona,"Obama, Barack H.",democrat,False,1025232,2299254
-2012,Arizona,"Johnson, Gary",libertarian,False,32100,2299254
-2012,Arizona,"Stein, Jill",green,False,7816,2299254
+2012,Arizona,"Romney, Mitt",Republican,False,1233654,2299254
+2012,Arizona,"Obama, Barack H.",Democrat,False,1025232,2299254
+2012,Arizona,"Johnson, Gary",Libertarian,False,32100,2299254
+2012,Arizona,"Stein, Jill",Green,False,7816,2299254
 2012,Arizona,,,True,452,2299254
-2012,Arkansas,"Romney, Mitt",republican,False,647744,1069468
-2012,Arkansas,"Obama, Barack H.",democrat,False,394409,1069468
-2012,Arkansas,"Johnson, Gary",libertarian,False,16276,1069468
-2012,Arkansas,"Stein, Jill",green,False,9305,1069468
-2012,Arkansas,"La Riva, Gloria Estella",socialism and liberation party,False,1734,1069468
-2012,California,"Obama, Barack H.",democrat,False,7854285,13038547
-2012,California,"Romney, Mitt",republican,False,4839958,13038547
-2012,California,"Johnson, Gary",libertarian,False,143221,13038547
-2012,California,"Stein, Jill",green,False,85638,13038547
-2012,California,"Barr, Roseanne",peace & freedom,False,53824,13038547
-2012,California,"Hoefling, Thomas Conrad """"Tom""""",american independent party,False,38372,13038547
+2012,Arkansas,"Romney, Mitt",Republican,False,647744,1069468
+2012,Arkansas,"Obama, Barack H.",Democrat,False,394409,1069468
+2012,Arkansas,"Johnson, Gary",Libertarian,False,16276,1069468
+2012,Arkansas,"Stein, Jill",Green,False,9305,1069468
+2012,Arkansas,"La Riva, Gloria Estella",Socialism And Liberation Party,False,1734,1069468
+2012,California,"Obama, Barack H.",Democrat,False,7854285,13038547
+2012,California,"Romney, Mitt",Republican,False,4839958,13038547
+2012,California,"Johnson, Gary",Libertarian,False,143221,13038547
+2012,California,"Stein, Jill",Green,False,85638,13038547
+2012,California,"Barr, Roseanne",Peace & Freedom,False,53824,13038547
+2012,California,"Hoefling, Thomas Conrad """"Tom""""",American Independent Party,False,38372,13038547
 2012,California,,,True,23249,13038547
-2012,Colorado,"Obama, Barack H.",democrat,False,1323101,2569516
-2012,Colorado,"Romney, Mitt",republican,False,1185243,2569516
-2012,Colorado,"Johnson, Gary",libertarian,False,35545,2569516
-2012,Colorado,"Stein, Jill",green,False,7508,2569516
-2012,Colorado,"Goode, Virgil Hamlin, Jr.",american constitution party,False,6234,2569516
-2012,Colorado,"Barr, Roseanne",peace & freedom,False,5057,2569516
-2012,Colorado,"Reed, Jill Ann",no party affiliation,False,2588,2569516
-2012,Colorado,"Anderson, Ross Carl """"Rocky""""",justice,False,1262,2569516
-2012,Colorado,"Tittle, Sheila """"Samm""""",we the people,False,791,2569516
-2012,Colorado,"Hoefling, Thomas Conrad """"Tom""""",america's party,False,679,2569516
-2012,Colorado,"La Riva, Gloria Estella",socialism and liberation party,False,317,2569516
-2012,Colorado,"Alexander, Stewart",socialist,False,308,2569516
-2012,Colorado,"Miller, Merlin",american third position,False,267,2569516
-2012,Colorado,"Stevens, Thomas Robert """"Tom""""",objectivist party,False,235,2569516
-2012,Colorado,"Harris, James",socialist workers,False,192,2569516
-2012,Colorado,"White, Jerry",socialist equality party,False,189,2569516
-2012,Connecticut,"Obama, Barack H.",democrat,False,905083,1558204
-2012,Connecticut,"Romney, Mitt",republican,False,634892,1558204
-2012,Connecticut,"Johnson, Gary",libertarian,False,12340,1558204
-2012,Connecticut,,independent,False,4971,1558204
+2012,Colorado,"Obama, Barack H.",Democrat,False,1323101,2569516
+2012,Colorado,"Romney, Mitt",Republican,False,1185243,2569516
+2012,Colorado,"Johnson, Gary",Libertarian,False,35545,2569516
+2012,Colorado,"Stein, Jill",Green,False,7508,2569516
+2012,Colorado,"Goode, Virgil Hamlin, Jr.",American Constitution Party,False,6234,2569516
+2012,Colorado,"Barr, Roseanne",Peace & Freedom,False,5057,2569516
+2012,Colorado,"Reed, Jill Ann",No Party Affiliation,False,2588,2569516
+2012,Colorado,"Anderson, Ross Carl """"Rocky""""",Justice,False,1262,2569516
+2012,Colorado,"Tittle, Sheila """"Samm""""",We The People,False,791,2569516
+2012,Colorado,"Hoefling, Thomas Conrad """"Tom""""",America'S Party,False,679,2569516
+2012,Colorado,"La Riva, Gloria Estella",Socialism And Liberation Party,False,317,2569516
+2012,Colorado,"Alexander, Stewart",Socialist,False,308,2569516
+2012,Colorado,"Miller, Merlin",American Third Position,False,267,2569516
+2012,Colorado,"Stevens, Thomas Robert """"Tom""""",Objectivist Party,False,235,2569516
+2012,Colorado,"Harris, James",Socialist Workers,False,192,2569516
+2012,Colorado,"White, Jerry",Socialist Equality Party,False,189,2569516
+2012,Connecticut,"Obama, Barack H.",Democrat,False,905083,1558204
+2012,Connecticut,"Romney, Mitt",Republican,False,634892,1558204
+2012,Connecticut,"Johnson, Gary",Libertarian,False,12340,1558204
+2012,Connecticut,,Independent,False,4971,1558204
 2012,Connecticut,,,True,918,1558204
-2012,Delaware,"Obama, Barack H.",democrat,False,242584,413890
-2012,Delaware,"Romney, Mitt",republican,False,165484,413890
-2012,Delaware,"Johnson, Gary",libertarian,False,3882,413890
-2012,Delaware,"Stein, Jill",green,False,1940,413890
-2012,District of Columbia,"Obama, Barack H.",democrat,False,267070,293764
-2012,District of Columbia,"Romney, Mitt",republican,False,21381,293764
-2012,District of Columbia,"Stein, Jill",d.c. statehood green,False,2458,293764
-2012,District of Columbia,"Johnson, Gary",libertarian,False,2083,293764
+2012,Delaware,"Obama, Barack H.",Democrat,False,242584,413890
+2012,Delaware,"Romney, Mitt",Republican,False,165484,413890
+2012,Delaware,"Johnson, Gary",Libertarian,False,3882,413890
+2012,Delaware,"Stein, Jill",Green,False,1940,413890
+2012,District of Columbia,"Obama, Barack H.",Democrat,False,267070,293764
+2012,District of Columbia,"Romney, Mitt",Republican,False,21381,293764
+2012,District of Columbia,"Stein, Jill",D.C. Statehood Green,False,2458,293764
+2012,District of Columbia,"Johnson, Gary",Libertarian,False,2083,293764
 2012,District of Columbia,,,True,772,293764
-2012,Florida,"Obama, Barack H.",democrat,False,4237756,8474179
-2012,Florida,"Romney, Mitt",republican,False,4163447,8474179
-2012,Florida,"Johnson, Gary",libertarian,False,44726,8474179
-2012,Florida,"Stein, Jill",green,False,8947,8474179
-2012,Florida,"Barr, Roseanne",peace & freedom,False,8154,8474179
-2012,Florida,"Stevens, Thomas Robert """"Tom""""",objectivist party,False,3856,8474179
-2012,Florida,"Goode, Virgil Hamlin, Jr.",constitution party,False,2607,8474179
-2012,Florida,"Anderson, Ross Carl """"Rocky""""",justice,False,1754,8474179
-2012,Florida,"Hoefling, Thomas Conrad """"Tom""""",american independent,False,946,8474179
-2012,Florida,"Barnett, Andre",reform party,False,820,8474179
-2012,Florida,"Alexander, Stewart",socialist,False,799,8474179
-2012,Florida,"Lindsay, Peta",socialism and liberation party,False,322,8474179
+2012,Florida,"Obama, Barack H.",Democrat,False,4237756,8474179
+2012,Florida,"Romney, Mitt",Republican,False,4163447,8474179
+2012,Florida,"Johnson, Gary",Libertarian,False,44726,8474179
+2012,Florida,"Stein, Jill",Green,False,8947,8474179
+2012,Florida,"Barr, Roseanne",Peace & Freedom,False,8154,8474179
+2012,Florida,"Stevens, Thomas Robert """"Tom""""",Objectivist Party,False,3856,8474179
+2012,Florida,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2607,8474179
+2012,Florida,"Anderson, Ross Carl """"Rocky""""",Justice,False,1754,8474179
+2012,Florida,"Hoefling, Thomas Conrad """"Tom""""",American Independent,False,946,8474179
+2012,Florida,"Barnett, Andre",Reform Party,False,820,8474179
+2012,Florida,"Alexander, Stewart",Socialist,False,799,8474179
+2012,Florida,"Lindsay, Peta",Socialism And Liberation Party,False,322,8474179
 2012,Florida,,,True,45,8474179
-2012,Georgia,"Romney, Mitt",republican,False,2078688,3897839
-2012,Georgia,"Obama, Barack H.",democrat,False,1773827,3897839
-2012,Georgia,"Johnson, Gary",libertarian,False,45324,3897839
-2012,Hawaii,"Obama, Barack H.",democrat,False,306658,437159
-2012,Hawaii,"Romney, Mitt",republican,False,121015,437159
-2012,Hawaii,"Johnson, Gary",libertarian,False,3840,437159
-2012,Hawaii,"Stein, Jill",green,False,3184,437159
+2012,Georgia,"Romney, Mitt",Republican,False,2078688,3897839
+2012,Georgia,"Obama, Barack H.",Democrat,False,1773827,3897839
+2012,Georgia,"Johnson, Gary",Libertarian,False,45324,3897839
+2012,Hawaii,"Obama, Barack H.",Democrat,False,306658,437159
+2012,Hawaii,"Romney, Mitt",Republican,False,121015,437159
+2012,Hawaii,"Johnson, Gary",Libertarian,False,3840,437159
+2012,Hawaii,"Stein, Jill",Green,False,3184,437159
 2012,Hawaii,Blank Vote,,False,2227,437159
 2012,Hawaii,Over Vote,,False,235,437159
-2012,Idaho,"Romney, Mitt",republican,False,420911,652274
-2012,Idaho,"Obama, Barack H.",democrat,False,212787,652274
-2012,Idaho,"Johnson, Gary",libertarian,False,9453,652274
-2012,Idaho,,independent,False,6901,652274
-2012,Idaho,"Goode, Virgil Hamlin, Jr.",constitution party,False,2222,652274
-2012,Illinois,"Obama, Barack H.",democrat,False,3019512,5242014
-2012,Illinois,"Romney, Mitt",republican,False,2135216,5242014
-2012,Illinois,"Johnson, Gary",libertarian,False,56229,5242014
-2012,Illinois,"Stein, Jill",green,False,30222,5242014
+2012,Idaho,"Romney, Mitt",Republican,False,420911,652274
+2012,Idaho,"Obama, Barack H.",Democrat,False,212787,652274
+2012,Idaho,"Johnson, Gary",Libertarian,False,9453,652274
+2012,Idaho,,Independent,False,6901,652274
+2012,Idaho,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2222,652274
+2012,Illinois,"Obama, Barack H.",Democrat,False,3019512,5242014
+2012,Illinois,"Romney, Mitt",Republican,False,2135216,5242014
+2012,Illinois,"Johnson, Gary",Libertarian,False,56229,5242014
+2012,Illinois,"Stein, Jill",Green,False,30222,5242014
 2012,Illinois,,,True,835,5242014
-2012,Indiana,"Romney, Mitt",republican,False,1420543,2624534
-2012,Indiana,"Obama, Barack H.",democrat,False,1152887,2624534
-2012,Indiana,"Johnson, Gary",libertarian,False,50111,2624534
+2012,Indiana,"Romney, Mitt",Republican,False,1420543,2624534
+2012,Indiana,"Obama, Barack H.",Democrat,False,1152887,2624534
+2012,Indiana,"Johnson, Gary",Libertarian,False,50111,2624534
 2012,Indiana,,,True,993,2624534
-2012,Iowa,"Obama, Barack H.",democrat,False,822544,1582180
-2012,Iowa,"Romney, Mitt",republican,False,730617,1582180
-2012,Iowa,"Johnson, Gary",libertarian,False,12926,1582180
+2012,Iowa,"Obama, Barack H.",Democrat,False,822544,1582180
+2012,Iowa,"Romney, Mitt",Republican,False,730617,1582180
+2012,Iowa,"Johnson, Gary",Libertarian,False,12926,1582180
 2012,Iowa,,,True,7442,1582180
-2012,Iowa,"Stein, Jill",green,False,3769,1582180
-2012,Iowa,"Goode, Virgil Hamlin, Jr.",constitution party,False,3038,1582180
-2012,Iowa,,nominated by petition,False,1027,1582180
-2012,Iowa,"Harris, James",socialist workers,False,445,1582180
-2012,Iowa,"La Riva, Gloria Estella",socialism and liberation party,False,372,1582180
-2012,Kansas,"Romney, Mitt",republican,False,692634,1159971
-2012,Kansas,"Obama, Barack H.",democrat,False,440726,1159971
-2012,Kansas,"Johnson, Gary",libertarian,False,20456,1159971
-2012,Kansas,"Baldwin, Charles """"Chuck""""",reform party,False,5017,1159971
+2012,Iowa,"Stein, Jill",Green,False,3769,1582180
+2012,Iowa,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,3038,1582180
+2012,Iowa,,Nominated By Petition,False,1027,1582180
+2012,Iowa,"Harris, James",Socialist Workers,False,445,1582180
+2012,Iowa,"La Riva, Gloria Estella",Socialism And Liberation Party,False,372,1582180
+2012,Kansas,"Romney, Mitt",Republican,False,692634,1159971
+2012,Kansas,"Obama, Barack H.",Democrat,False,440726,1159971
+2012,Kansas,"Johnson, Gary",Libertarian,False,20456,1159971
+2012,Kansas,"Baldwin, Charles """"Chuck""""",Reform Party,False,5017,1159971
 2012,Kansas,,,True,1138,1159971
-2012,Kentucky,"Romney, Mitt",republican,False,1087190,1797212
-2012,Kentucky,"Obama, Barack H.",democrat,False,679370,1797212
-2012,Kentucky,"Johnson, Gary",libertarian,False,17063,1797212
-2012,Kentucky,"Terry, Randall",independent,False,6872,1797212
-2012,Kentucky,"Stein, Jill",green,False,6337,1797212
+2012,Kentucky,"Romney, Mitt",Republican,False,1087190,1797212
+2012,Kentucky,"Obama, Barack H.",Democrat,False,679370,1797212
+2012,Kentucky,"Johnson, Gary",Libertarian,False,17063,1797212
+2012,Kentucky,"Terry, Randall",Independent,False,6872,1797212
+2012,Kentucky,"Stein, Jill",Green,False,6337,1797212
 2012,Kentucky,,,True,380,1797212
-2012,Louisiana,"Romney, Mitt",republican,False,1152262,1994065
-2012,Louisiana,"Obama, Barack H.",democrat,False,809141,1994065
-2012,Louisiana,"Johnson, Gary",libertarian,False,18157,1994065
-2012,Louisiana,"Stein, Jill",green,False,6978,1994065
-2012,Louisiana,"Goode, Virgil Hamlin, Jr.",constitution party,False,2508,1994065
-2012,Louisiana,"Tittle, Sheila """"Samm""""",we the people,False,1767,1994065
-2012,Louisiana,"Anderson, Ross Carl """"Rocky""""",justice,False,1368,1994065
-2012,Louisiana,"Lindsay, Peta",socialism and liberation party,False,622,1994065
-2012,Louisiana,"Fellure, Lowell Jackson """"Jack""""",prohibition,False,518,1994065
-2012,Louisiana,"Harris, James",socialist workers,False,389,1994065
-2012,Louisiana,"White, Jerome """"Jerry""""",socialist equality party,False,355,1994065
-2012,Maine,"Obama, Barack H.",democrat,False,401306,724758
-2012,Maine,"Romney, Mitt",republican,False,292276,724758
+2012,Louisiana,"Romney, Mitt",Republican,False,1152262,1994065
+2012,Louisiana,"Obama, Barack H.",Democrat,False,809141,1994065
+2012,Louisiana,"Johnson, Gary",Libertarian,False,18157,1994065
+2012,Louisiana,"Stein, Jill",Green,False,6978,1994065
+2012,Louisiana,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2508,1994065
+2012,Louisiana,"Tittle, Sheila """"Samm""""",We The People,False,1767,1994065
+2012,Louisiana,"Anderson, Ross Carl """"Rocky""""",Justice,False,1368,1994065
+2012,Louisiana,"Lindsay, Peta",Socialism And Liberation Party,False,622,1994065
+2012,Louisiana,"Fellure, Lowell Jackson """"Jack""""",Prohibition,False,518,1994065
+2012,Louisiana,"Harris, James",Socialist Workers,False,389,1994065
+2012,Louisiana,"White, Jerome """"Jerry""""",Socialist Equality Party,False,355,1994065
+2012,Maine,"Obama, Barack H.",Democrat,False,401306,724758
+2012,Maine,"Romney, Mitt",Republican,False,292276,724758
 2012,Maine,Blank Vote,,False,11578,724758
-2012,Maine,"Johnson, Gary",libertarian,False,9352,724758
-2012,Maine,"Stein, Jill",green,False,8119,724758
+2012,Maine,"Johnson, Gary",Libertarian,False,9352,724758
+2012,Maine,"Stein, Jill",Green,False,8119,724758
 2012,Maine,,,True,2127,724758
-2012,Maryland,"Obama, Barack H.",democrat,False,1677844,2707327
-2012,Maryland,"Romney, Mitt",republican,False,971869,2707327
-2012,Maryland,"Johnson, Gary",libertarian,False,30195,2707327
-2012,Maryland,"Stein, Jill",green,False,17110,2707327
+2012,Maryland,"Obama, Barack H.",Democrat,False,1677844,2707327
+2012,Maryland,"Romney, Mitt",Republican,False,971869,2707327
+2012,Maryland,"Johnson, Gary",Libertarian,False,30195,2707327
+2012,Maryland,"Stein, Jill",Green,False,17110,2707327
 2012,Maryland,,,True,10309,2707327
-2012,Massachusetts,"Obama, Barack H.",democrat,False,1921290,3184196
-2012,Massachusetts,"Romney, Mitt",republican,False,1188314,3184196
-2012,Massachusetts,"Johnson, Gary",libertarian,False,30920,3184196
-2012,Massachusetts,"Stein, Jill",green-rainbow,False,20691,3184196
+2012,Massachusetts,"Obama, Barack H.",Democrat,False,1921290,3184196
+2012,Massachusetts,"Romney, Mitt",Republican,False,1188314,3184196
+2012,Massachusetts,"Johnson, Gary",Libertarian,False,30920,3184196
+2012,Massachusetts,"Stein, Jill",Green-Rainbow,False,20691,3184196
 2012,Massachusetts,Blank Vote/Scattering,,False,16429,3184196
 2012,Massachusetts,Other,,False,6552,3184196
-2012,Michigan,"Obama, Barack H.",democrat,False,2564569,4730961
-2012,Michigan,"Romney, Mitt",republican,False,2115256,4730961
-2012,Michigan,"Stein, Jill",green,False,21897,4730961
-2012,Michigan,"Goode, Virgil Hamlin, Jr.",u.s. taxpayers party,False,16119,4730961
+2012,Michigan,"Obama, Barack H.",Democrat,False,2564569,4730961
+2012,Michigan,"Romney, Mitt",Republican,False,2115256,4730961
+2012,Michigan,"Stein, Jill",Green,False,21897,4730961
+2012,Michigan,"Goode, Virgil Hamlin, Jr.",U.S. Taxpayers Party,False,16119,4730961
 2012,Michigan,,,True,7973,4730961
-2012,Michigan,"Anderson, Ross Carl """"Rocky""""",natural law,False,5147,4730961
-2012,Minnesota,"Obama, Barack H.",democratic-farmer-labor,False,1546167,2936561
-2012,Minnesota,"Romney, Mitt",republican,False,1320225,2936561
-2012,Minnesota,"Johnson, Gary",libertarian,False,35098,2936561
-2012,Minnesota,"Stein, Jill",green,False,13023,2936561
+2012,Michigan,"Anderson, Ross Carl """"Rocky""""",Natural Law,False,5147,4730961
+2012,Minnesota,"Obama, Barack H.",Democratic-Farmer-Labor,False,1546167,2936561
+2012,Minnesota,"Romney, Mitt",Republican,False,1320225,2936561
+2012,Minnesota,"Johnson, Gary",Libertarian,False,35098,2936561
+2012,Minnesota,"Stein, Jill",Green,False,13023,2936561
 2012,Minnesota,,,True,10641,2936561
-2012,Minnesota,"Goode, Virgil Hamlin, Jr.",constitution party,False,3722,2936561
-2012,Minnesota,"Carlson, Jim",grassroots,False,3149,2936561
-2012,Minnesota,"Anderson, Ross Carl """"Rocky""""",justice,False,1996,2936561
-2012,Minnesota,"Morstad, Dean",constitutional government,False,1092,2936561
-2012,Minnesota,"Harris, James",socialist workers,False,1051,2936561
-2012,Minnesota,"Lindsay, Peta",socialism and liberation party,False,397,2936561
-2012,Mississippi,"Romney, Mitt",republican,False,710746,1285584
-2012,Mississippi,"Obama, Barack H.",democrat,False,562949,1285584
-2012,Mississippi,"Johnson, Gary",libertarian,False,6676,1285584
-2012,Mississippi,"Goode, Virgil Hamlin, Jr.",constitution party,False,2609,1285584
-2012,Mississippi,"Stein, Jill",green,False,1588,1285584
-2012,Mississippi,"Washer, Barbara Dale",reform party,False,1016,1285584
-2012,Missouri,"Romney, Mitt",republican,False,1482440,2757323
-2012,Missouri,"Obama, Barack H.",democrat,False,1223796,2757323
-2012,Missouri,"Johnson, Gary",libertarian,False,43151,2757323
-2012,Missouri,"Goode, Virgil Hamlin, Jr.",constitution party,False,7936,2757323
-2012,Montana,"Romney, Mitt",republican,False,267928,484048
-2012,Montana,"Obama, Barack H.",democrat,False,201839,484048
-2012,Montana,"Johnson, Gary",libertarian,False,14165,484048
+2012,Minnesota,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,3722,2936561
+2012,Minnesota,"Carlson, Jim",Grassroots,False,3149,2936561
+2012,Minnesota,"Anderson, Ross Carl """"Rocky""""",Justice,False,1996,2936561
+2012,Minnesota,"Morstad, Dean",Constitutional Government,False,1092,2936561
+2012,Minnesota,"Harris, James",Socialist Workers,False,1051,2936561
+2012,Minnesota,"Lindsay, Peta",Socialism And Liberation Party,False,397,2936561
+2012,Mississippi,"Romney, Mitt",Republican,False,710746,1285584
+2012,Mississippi,"Obama, Barack H.",Democrat,False,562949,1285584
+2012,Mississippi,"Johnson, Gary",Libertarian,False,6676,1285584
+2012,Mississippi,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2609,1285584
+2012,Mississippi,"Stein, Jill",Green,False,1588,1285584
+2012,Mississippi,"Washer, Barbara Dale",Reform Party,False,1016,1285584
+2012,Missouri,"Romney, Mitt",Republican,False,1482440,2757323
+2012,Missouri,"Obama, Barack H.",Democrat,False,1223796,2757323
+2012,Missouri,"Johnson, Gary",Libertarian,False,43151,2757323
+2012,Missouri,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,7936,2757323
+2012,Montana,"Romney, Mitt",Republican,False,267928,484048
+2012,Montana,"Obama, Barack H.",Democrat,False,201839,484048
+2012,Montana,"Johnson, Gary",Libertarian,False,14165,484048
 2012,Montana,,,True,116,484048
-2012,Nebraska,"Romney, Mitt",republican,False,475064,794379
-2012,Nebraska,"Obama, Barack H.",democrat,False,302081,794379
-2012,Nebraska,"Johnson, Gary",libertarian,False,11109,794379
+2012,Nebraska,"Romney, Mitt",Republican,False,475064,794379
+2012,Nebraska,"Obama, Barack H.",Democrat,False,302081,794379
+2012,Nebraska,"Johnson, Gary",Libertarian,False,11109,794379
 2012,Nebraska,,,True,3717,794379
-2012,Nebraska,,nominated by petition,False,2408,794379
-2012,Nevada,"Obama, Barack H.",democrat,False,531373,1014918
-2012,Nevada,"Romney, Mitt",republican,False,463567,1014918
-2012,Nevada,"Johnson, Gary",libertarian,False,10968,1014918
+2012,Nebraska,,Nominated By Petition,False,2408,794379
+2012,Nevada,"Obama, Barack H.",Democrat,False,531373,1014918
+2012,Nevada,"Romney, Mitt",Republican,False,463567,1014918
+2012,Nevada,"Johnson, Gary",Libertarian,False,10968,1014918
 2012,Nevada,None Of These Candidates,,False,5770,1014918
-2012,Nevada,"Goode, Virgil Hamlin, Jr.",independent american,False,3240,1014918
-2012,New Hampshire,"Obama, Barack H.",democrat,False,369561,710972
-2012,New Hampshire,"Romney, Mitt",republican,False,329918,710972
-2012,New Hampshire,"Johnson, Gary",libertarian,False,8212,710972
+2012,Nevada,"Goode, Virgil Hamlin, Jr.",Independent American,False,3240,1014918
+2012,New Hampshire,"Obama, Barack H.",Democrat,False,369561,710972
+2012,New Hampshire,"Romney, Mitt",Republican,False,329918,710972
+2012,New Hampshire,"Johnson, Gary",Libertarian,False,8212,710972
 2012,New Hampshire,,,True,1698,710972
 2012,New Hampshire,Scattering,,False,875,710972
-2012,New Hampshire,"Goode, Virgil Hamlin, Jr.",constitution party,False,708,710972
-2012,New Jersey,"Obama, Barack H.",democrat,False,2122786,3638499
-2012,New Jersey,"Romney, Mitt",republican,False,1478088,3638499
-2012,New Jersey,"Johnson, Gary",libertarian,False,21035,3638499
-2012,New Jersey,"Stein, Jill",green,False,9886,3638499
-2012,New Jersey,"Goode, Virgil Hamlin, Jr.",constitution party,False,2063,3638499
-2012,New Jersey,"Anderson, Ross Carl """"Rocky""""",justice,False,1723,3638499
-2012,New Jersey,"Boss, Jeffery",nsa did 911,False,1024,3638499
-2012,New Jersey,"Harris, James",socialist workers,False,709,3638499
-2012,New Jersey,"Miller, Merlin",american third position,False,664,3638499
-2012,New Jersey,"Lindsay, Peta",socialism and liberation party,False,521,3638499
-2012,New Mexico,"Obama, Barack H.",democrat,False,415335,783758
-2012,New Mexico,"Romney, Mitt",republican,False,335788,783758
-2012,New Mexico,"Johnson, Gary",libertarian,False,27788,783758
-2012,New Mexico,"Stein, Jill",green,False,2691,783758
-2012,New Mexico,,new mexico independent party,False,1174,783758
-2012,New Mexico,"Goode, Virgil Hamlin, Jr.",constitution party,False,982,783758
-2012,New York,"Obama, Barack H.",democrat,False,4324228,7116784
-2012,New York,"Romney, Mitt",republican,False,2223397,7116784
-2012,New York,"Romney, Mitt",conservative,False,262035,7116784
-2012,New York,"Obama, Barack H.",working families,False,147643,7116784
+2012,New Hampshire,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,708,710972
+2012,New Jersey,"Obama, Barack H.",Democrat,False,2122786,3638499
+2012,New Jersey,"Romney, Mitt",Republican,False,1478088,3638499
+2012,New Jersey,"Johnson, Gary",Libertarian,False,21035,3638499
+2012,New Jersey,"Stein, Jill",Green,False,9886,3638499
+2012,New Jersey,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2063,3638499
+2012,New Jersey,"Anderson, Ross Carl """"Rocky""""",Justice,False,1723,3638499
+2012,New Jersey,"Boss, Jeffery",Nsa Did 911,False,1024,3638499
+2012,New Jersey,"Harris, James",Socialist Workers,False,709,3638499
+2012,New Jersey,"Miller, Merlin",American Third Position,False,664,3638499
+2012,New Jersey,"Lindsay, Peta",Socialism And Liberation Party,False,521,3638499
+2012,New Mexico,"Obama, Barack H.",Democrat,False,415335,783758
+2012,New Mexico,"Romney, Mitt",Republican,False,335788,783758
+2012,New Mexico,"Johnson, Gary",Libertarian,False,27788,783758
+2012,New Mexico,"Stein, Jill",Green,False,2691,783758
+2012,New Mexico,,New Mexico Independent Party,False,1174,783758
+2012,New Mexico,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,982,783758
+2012,New York,"Obama, Barack H.",Democrat,False,4324228,7116784
+2012,New York,"Romney, Mitt",Republican,False,2223397,7116784
+2012,New York,"Romney, Mitt",Conservative,False,262035,7116784
+2012,New York,"Obama, Barack H.",Working Families,False,147643,7116784
 2012,New York,Blank Vote/Void Vote/Scattering,,False,63881,7116784
-2012,New York,"Johnson, Gary",libertarian,False,47092,7116784
-2012,New York,"Stein, Jill",green,False,39856,7116784
-2012,New York,"Goode, Virgil Hamlin, Jr.",constitution party,False,6270,7116784
-2012,New York,"Lindsay, Peta",socialism and liberation party,False,2039,7116784
+2012,New York,"Johnson, Gary",Libertarian,False,47092,7116784
+2012,New York,"Stein, Jill",Green,False,39856,7116784
+2012,New York,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,6270,7116784
+2012,New York,"Lindsay, Peta",Socialism And Liberation Party,False,2039,7116784
 2012,New York,,,True,343,7116784
-2012,North Carolina,"Romney, Mitt",republican,False,2270395,4505372
-2012,North Carolina,"Obama, Barack H.",democrat,False,2178391,4505372
-2012,North Carolina,"Johnson, Gary",libertarian,False,44515,4505372
+2012,North Carolina,"Romney, Mitt",Republican,False,2270395,4505372
+2012,North Carolina,"Obama, Barack H.",Democrat,False,2178391,4505372
+2012,North Carolina,"Johnson, Gary",Libertarian,False,44515,4505372
 2012,North Carolina,,,True,12071,4505372
-2012,North Dakota,"Romney, Mitt",republican,False,188320,322932
-2012,North Dakota,"Obama, Barack H.",democrat,False,124966,322932
-2012,North Dakota,"Johnson, Gary",libertarian,False,5238,322932
+2012,North Dakota,"Romney, Mitt",Republican,False,188320,322932
+2012,North Dakota,"Obama, Barack H.",Democrat,False,124966,322932
+2012,North Dakota,"Johnson, Gary",Libertarian,False,5238,322932
 2012,North Dakota,,,True,1860,322932
-2012,North Dakota,"Goode, Virgil Hamlin, Jr.",constitution party,False,1186,322932
-2012,North Dakota,"Stein, Jill",green,False,1362,322932
-2012,Ohio,"Obama, Barack H.",democrat,False,2827621,5580822
-2012,Ohio,"Romney, Mitt",republican,False,2661407,5580822
-2012,Ohio,"Johnson, Gary",libertarian,False,49493,5580822
-2012,Ohio,"Stein, Jill",green,False,18574,5580822
-2012,Ohio,"Duncan, Richard",independent,False,12502,5580822
-2012,Ohio,"Goode, Virgil Hamlin, Jr.",constitution party,False,8151,5580822
-2012,Ohio,"Alexander, Stewart",socialist,False,2967,5580822
+2012,North Dakota,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,1186,322932
+2012,North Dakota,"Stein, Jill",Green,False,1362,322932
+2012,Ohio,"Obama, Barack H.",Democrat,False,2827621,5580822
+2012,Ohio,"Romney, Mitt",Republican,False,2661407,5580822
+2012,Ohio,"Johnson, Gary",Libertarian,False,49493,5580822
+2012,Ohio,"Stein, Jill",Green,False,18574,5580822
+2012,Ohio,"Duncan, Richard",Independent,False,12502,5580822
+2012,Ohio,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,8151,5580822
+2012,Ohio,"Alexander, Stewart",Socialist,False,2967,5580822
 2012,Ohio,,,True,107,5580822
-2012,Oklahoma,"Romney, Mitt",republican,False,891325,1334872
-2012,Oklahoma,"Obama, Barack H.",democrat,False,443547,1334872
-2012,Oregon,"Obama, Barack H.",democrat,False,970488,1789270
-2012,Oregon,"Romney, Mitt",republican,False,754175,1789270
-2012,Oregon,"Johnson, Gary",libertarian,False,24089,1789270
-2012,Oregon,"Stein, Jill",pacific green,False,19427,1789270
+2012,Oklahoma,"Romney, Mitt",Republican,False,891325,1334872
+2012,Oklahoma,"Obama, Barack H.",Democrat,False,443547,1334872
+2012,Oregon,"Obama, Barack H.",Democrat,False,970488,1789270
+2012,Oregon,"Romney, Mitt",Republican,False,754175,1789270
+2012,Oregon,"Johnson, Gary",Libertarian,False,24089,1789270
+2012,Oregon,"Stein, Jill",Pacific Green,False,19427,1789270
 2012,Oregon,Other,,False,13275,1789270
-2012,Oregon,"Christensen, Will",constitution party,False,4432,1789270
-2012,Oregon,"Anderson, Ross Carl """"Rocky""""",progressive,False,3384,1789270
-2012,Pennsylvania,"Obama, Barack H.",democrat,False,2990274,5742040
-2012,Pennsylvania,"Romney, Mitt",republican,False,2680434,5742040
-2012,Pennsylvania,"Johnson, Gary",libertarian,False,49991,5742040
-2012,Pennsylvania,"Stein, Jill",green,False,21341,5742040
-2012,Rhode Island,"Obama, Barack H.",democrat,False,279677,446049
-2012,Rhode Island,"Romney, Mitt",republican,False,157204,446049
-2012,Rhode Island,"Johnson, Gary",libertarian,False,4388,446049
-2012,Rhode Island,"Stein, Jill",green,False,2421,446049
+2012,Oregon,"Christensen, Will",Constitution Party,False,4432,1789270
+2012,Oregon,"Anderson, Ross Carl """"Rocky""""",Progressive,False,3384,1789270
+2012,Pennsylvania,"Obama, Barack H.",Democrat,False,2990274,5742040
+2012,Pennsylvania,"Romney, Mitt",Republican,False,2680434,5742040
+2012,Pennsylvania,"Johnson, Gary",Libertarian,False,49991,5742040
+2012,Pennsylvania,"Stein, Jill",Green,False,21341,5742040
+2012,Rhode Island,"Obama, Barack H.",Democrat,False,279677,446049
+2012,Rhode Island,"Romney, Mitt",Republican,False,157204,446049
+2012,Rhode Island,"Johnson, Gary",Libertarian,False,4388,446049
+2012,Rhode Island,"Stein, Jill",Green,False,2421,446049
 2012,Rhode Island,,,True,1381,446049
-2012,Rhode Island,"Goode, Virgil Hamlin, Jr.",constitution party,False,430,446049
-2012,Rhode Island,"Anderson, Ross Carl """"Rocky""""",justice,False,416,446049
-2012,Rhode Island,"Lindsay, Peta",socialism and liberation party,False,132,446049
-2012,South Carolina,"Romney, Mitt",republican,False,1071645,1964118
-2012,South Carolina,"Obama, Barack H.",democrat,False,865941,1964118
-2012,South Carolina,"Johnson, Gary",libertarian,False,16321,1964118
-2012,South Carolina,"Stein, Jill",green,False,5446,1964118
-2012,South Carolina,"Goode, Virgil Hamlin, Jr.",constitution party,False,4765,1964118
-2012,South Dakota,"Romney, Mitt",republican,False,210610,363815
-2012,South Dakota,"Obama, Barack H.",democrat,False,145039,363815
-2012,South Dakota,"Johnson, Gary",libertarian,False,5795,363815
-2012,South Dakota,"Goode, Virgil Hamlin, Jr.",constitution party,False,2371,363815
-2012,Tennessee,"Romney, Mitt",republican,False,1462330,2458577
-2012,Tennessee,"Obama, Barack H.",democrat,False,960709,2458577
-2012,Tennessee,,independent,False,23001,2458577
-2012,Tennessee,"Stein, Jill",green,False,6515,2458577
-2012,Tennessee,"Goode, Virgil Hamlin, Jr.",constitution party,False,6022,2458577
-2012,Texas,"Romney, Mitt",republican,False,4569843,7993851
-2012,Texas,"Obama, Barack H.",democrat,False,3308124,7993851
-2012,Texas,"Johnson, Gary",libertarian,False,88580,7993851
-2012,Texas,"Stein, Jill",green,False,24657,7993851
+2012,Rhode Island,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,430,446049
+2012,Rhode Island,"Anderson, Ross Carl """"Rocky""""",Justice,False,416,446049
+2012,Rhode Island,"Lindsay, Peta",Socialism And Liberation Party,False,132,446049
+2012,South Carolina,"Romney, Mitt",Republican,False,1071645,1964118
+2012,South Carolina,"Obama, Barack H.",Democrat,False,865941,1964118
+2012,South Carolina,"Johnson, Gary",Libertarian,False,16321,1964118
+2012,South Carolina,"Stein, Jill",Green,False,5446,1964118
+2012,South Carolina,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,4765,1964118
+2012,South Dakota,"Romney, Mitt",Republican,False,210610,363815
+2012,South Dakota,"Obama, Barack H.",Democrat,False,145039,363815
+2012,South Dakota,"Johnson, Gary",Libertarian,False,5795,363815
+2012,South Dakota,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2371,363815
+2012,Tennessee,"Romney, Mitt",Republican,False,1462330,2458577
+2012,Tennessee,"Obama, Barack H.",Democrat,False,960709,2458577
+2012,Tennessee,,Independent,False,23001,2458577
+2012,Tennessee,"Stein, Jill",Green,False,6515,2458577
+2012,Tennessee,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,6022,2458577
+2012,Texas,"Romney, Mitt",Republican,False,4569843,7993851
+2012,Texas,"Obama, Barack H.",Democrat,False,3308124,7993851
+2012,Texas,"Johnson, Gary",Libertarian,False,88580,7993851
+2012,Texas,"Stein, Jill",Green,False,24657,7993851
 2012,Texas,,,True,2647,7993851
-2012,Utah,"Romney, Mitt",republican,False,740600,1017440
-2012,Utah,"Obama, Barack H.",democrat,False,251813,1017440
-2012,Utah,"Johnson, Gary",libertarian,False,12572,1017440
-2012,Utah,"Anderson, Ross Carl """"Rocky""""",justice,False,5335,1017440
-2012,Utah,"Stein, Jill",green,False,3817,1017440
-2012,Utah,"Goode, Virgil Hamlin, Jr.",constitution party,False,2871,1017440
-2012,Utah,,no party affiliation,False,393,1017440
+2012,Utah,"Romney, Mitt",Republican,False,740600,1017440
+2012,Utah,"Obama, Barack H.",Democrat,False,251813,1017440
+2012,Utah,"Johnson, Gary",Libertarian,False,12572,1017440
+2012,Utah,"Anderson, Ross Carl """"Rocky""""",Justice,False,5335,1017440
+2012,Utah,"Stein, Jill",Green,False,3817,1017440
+2012,Utah,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,2871,1017440
+2012,Utah,,No Party Affiliation,False,393,1017440
 2012,Utah,,,True,39,1017440
-2012,Vermont,"Obama, Barack H.",democrat,False,199239,299290
-2012,Vermont,"Romney, Mitt",republican,False,92698,299290
-2012,Vermont,"Johnson, Gary",libertarian,False,3487,299290
+2012,Vermont,"Obama, Barack H.",Democrat,False,199239,299290
+2012,Vermont,"Romney, Mitt",Republican,False,92698,299290
+2012,Vermont,"Johnson, Gary",Libertarian,False,3487,299290
 2012,Vermont,,,True,2043,299290
-2012,Vermont,"Anderson, Ross Carl """"Rocky""""",justice,False,1128,299290
-2012,Vermont,"Lindsay, Peta",socialism and liberation party,False,695,299290
-2012,Virginia,"Obama, Barack H.",democrat,False,1971820,3854489
-2012,Virginia,"Romney, Mitt",republican,False,1822522,3854489
-2012,Virginia,"Johnson, Gary",libertarian,False,31216,3854489
-2012,Virginia,"Goode, Virgil Hamlin, Jr.",constitution party,False,13058,3854489
-2012,Virginia,"Stein, Jill",green,False,8627,3854489
+2012,Vermont,"Anderson, Ross Carl """"Rocky""""",Justice,False,1128,299290
+2012,Vermont,"Lindsay, Peta",Socialism And Liberation Party,False,695,299290
+2012,Virginia,"Obama, Barack H.",Democrat,False,1971820,3854489
+2012,Virginia,"Romney, Mitt",Republican,False,1822522,3854489
+2012,Virginia,"Johnson, Gary",Libertarian,False,31216,3854489
+2012,Virginia,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,13058,3854489
+2012,Virginia,"Stein, Jill",Green,False,8627,3854489
 2012,Virginia,,,True,7246,3854489
-2012,Washington,"Obama, Barack H.",democrat,False,1755396,3125516
-2012,Washington,"Mitt, Romney",republican,False,1290670,3125516
-2012,Washington,"Johnson, Gary",libertarian,False,42202,3125516
-2012,Washington,"Stein, Jill",green,False,20928,3125516
-2012,Washington,"Goode, Virgil Hamlin, Jr.",constitution party,False,8851,3125516
-2012,Washington,"Anderson, Ross Carl """"Rocky""""",justice,False,4946,3125516
-2012,Washington,"Lindsay, Peta",socialism and liberation party,False,1318,3125516
-2012,Washington,"Harris, James",socialist workers,False,1205,3125516
-2012,West Virginia,"Romney, Mitt",republican,False,417655,670438
-2012,West Virginia,"Obama, Barack H.",democrat,False,238269,670438
-2012,West Virginia,"Johnson, Gary",libertarian,False,6302,670438
-2012,West Virginia,"Stein, Jill",mountain party,False,4406,670438
-2012,West Virginia,,no party affiliation,False,3806,670438
-2012,Wisconsin,"Obama, Barack H.",democrat,False,1620985,3071434
-2012,Wisconsin,"Romney, Mitt",republican,False,1410966,3071434
-2012,Wisconsin,,independent,False,29383,3071434
+2012,Washington,"Obama, Barack H.",Democrat,False,1755396,3125516
+2012,Washington,"Mitt, Romney",Republican,False,1290670,3125516
+2012,Washington,"Johnson, Gary",Libertarian,False,42202,3125516
+2012,Washington,"Stein, Jill",Green,False,20928,3125516
+2012,Washington,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,8851,3125516
+2012,Washington,"Anderson, Ross Carl """"Rocky""""",Justice,False,4946,3125516
+2012,Washington,"Lindsay, Peta",Socialism And Liberation Party,False,1318,3125516
+2012,Washington,"Harris, James",Socialist Workers,False,1205,3125516
+2012,West Virginia,"Romney, Mitt",Republican,False,417655,670438
+2012,West Virginia,"Obama, Barack H.",Democrat,False,238269,670438
+2012,West Virginia,"Johnson, Gary",Libertarian,False,6302,670438
+2012,West Virginia,"Stein, Jill",Mountain Party,False,4406,670438
+2012,West Virginia,,No Party Affiliation,False,3806,670438
+2012,Wisconsin,"Obama, Barack H.",Democrat,False,1620985,3071434
+2012,Wisconsin,"Romney, Mitt",Republican,False,1410966,3071434
+2012,Wisconsin,,Independent,False,29383,3071434
 2012,Wisconsin,Scattering,,False,5170,3071434
-2012,Wisconsin,"Goode, Virgil Hamlin, Jr.",constitution party,False,4930,3071434
-2012,Wyoming,"Romney, Mitt",republican,False,170962,250701
-2012,Wyoming,"Obama, Barack H.",democrat,False,69286,250701
-2012,Wyoming,"Johnson, Gary",libertarian,False,5326,250701
+2012,Wisconsin,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,4930,3071434
+2012,Wyoming,"Romney, Mitt",Republican,False,170962,250701
+2012,Wyoming,"Obama, Barack H.",Democrat,False,69286,250701
+2012,Wyoming,"Johnson, Gary",Libertarian,False,5326,250701
 2012,Wyoming,,,True,2035,250701
-2012,Wyoming,"Goode, Virgil Hamlin, Jr.",constitution party,False,1452,250701
+2012,Wyoming,"Goode, Virgil Hamlin, Jr.",Constitution Party,False,1452,250701
 2012,Wyoming,Blank Vote,,False,1367,250701
 2012,Wyoming,Over Vote,,False,273,250701
-2016,Alabama,"Trump, Donald J.",republican,False,1318255,2123372
-2016,Alabama,"Clinton, Hillary",democrat,False,729547,2123372
-2016,Alabama,"Johnson, Gary",libertarian,False,44467,2123372
+2016,Alabama,"Trump, Donald J.",Republican,False,1318255,2123372
+2016,Alabama,"Clinton, Hillary",Democrat,False,729547,2123372
+2016,Alabama,"Johnson, Gary",Libertarian,False,44467,2123372
 2016,Alabama,,,True,21712,2123372
-2016,Alabama,"Stein, Jill",green,False,9391,2123372
-2016,Alaska,"Trump, Donald J.",republican,False,163387,318608
-2016,Alaska,"Clinton, Hillary",democrat,False,116454,318608
-2016,Alaska,"Johnson, Gary",libertarian,False,18725,318608
+2016,Alabama,"Stein, Jill",Green,False,9391,2123372
+2016,Alaska,"Trump, Donald J.",Republican,False,163387,318608
+2016,Alaska,"Clinton, Hillary",Democrat,False,116454,318608
+2016,Alaska,"Johnson, Gary",Libertarian,False,18725,318608
 2016,Alaska,,,True,9201,318608
-2016,Alaska,"Stein, Jill",green,False,5735,318608
-2016,Alaska,"Castle, Darrell L.",constitution party,False,3866,318608
-2016,Alaska,"De La Fuente, Roque """"Rocky""""",no party affiliation,False,1240,318608
-2016,Arizona,"Trump, Donald J.",republican,False,1252401,2573165
-2016,Arizona,"Clinton, Hillary",democrat,False,1161167,2573165
-2016,Arizona,"Johnson, Gary",libertarian,False,106327,2573165
-2016,Arizona,"Stein, Jill",green,False,34345,2573165
-2016,Arizona,,independent,True,17473,2573165
-2016,Arizona,"Castle, Darrell L.",constitution party,True,1058,2573165
-2016,Arizona,,no party affiliation,True,311,2573165
-2016,Arizona,,democrat,True,42,2573165
-2016,Arizona,"De La Fuente, Roque """"Rocky""""",american delta party,True,29,2573165
-2016,Arizona,"Tittle, Sheila """"Samm""""",we the people,True,12,2573165
-2016,Arkansas,"Trump, Donald J.",republican,False,684872,1130635
-2016,Arkansas,"Clinton, Hillary",democrat,False,380494,1130635
-2016,Arkansas,"Johnson, Gary",libertarian,False,29829,1130635
-2016,Arkansas,"McMullin, Evan",better for america,False,13255,1130635
-2016,Arkansas,"Stein, Jill",green,False,9473,1130635
-2016,Arkansas,"Hedges, Jim",prohibition,False,4709,1130635
-2016,Arkansas,"Castle, Darrell L.",constitution party,False,4613,1130635
-2016,Arkansas,"Kahn, Lynn S.",independent,False,3390,1130635
-2016,California,"Clinton, Hillary",democrat,False,8753788,14181595
-2016,California,"Trump, Donald J.",republican,False,4483810,14181595
-2016,California,"Johnson, Gary",libertarian,False,478500,14181595
-2016,California,"Stein, Jill",green,False,278657,14181595
+2016,Alaska,"Stein, Jill",Green,False,5735,318608
+2016,Alaska,"Castle, Darrell L.",Constitution Party,False,3866,318608
+2016,Alaska,"De La Fuente, Roque """"Rocky""""",No Party Affiliation,False,1240,318608
+2016,Arizona,"Trump, Donald J.",Republican,False,1252401,2573165
+2016,Arizona,"Clinton, Hillary",Democrat,False,1161167,2573165
+2016,Arizona,"Johnson, Gary",Libertarian,False,106327,2573165
+2016,Arizona,"Stein, Jill",Green,False,34345,2573165
+2016,Arizona,,Independent,True,17473,2573165
+2016,Arizona,"Castle, Darrell L.",Constitution Party,True,1058,2573165
+2016,Arizona,,No Party Affiliation,True,311,2573165
+2016,Arizona,,Democrat,True,42,2573165
+2016,Arizona,"De La Fuente, Roque """"Rocky""""",American Delta Party,True,29,2573165
+2016,Arizona,"Tittle, Sheila """"Samm""""",We The People,True,12,2573165
+2016,Arkansas,"Trump, Donald J.",Republican,False,684872,1130635
+2016,Arkansas,"Clinton, Hillary",Democrat,False,380494,1130635
+2016,Arkansas,"Johnson, Gary",Libertarian,False,29829,1130635
+2016,Arkansas,"McMullin, Evan",Better For America,False,13255,1130635
+2016,Arkansas,"Stein, Jill",Green,False,9473,1130635
+2016,Arkansas,"Hedges, Jim",Prohibition,False,4709,1130635
+2016,Arkansas,"Castle, Darrell L.",Constitution Party,False,4613,1130635
+2016,Arkansas,"Kahn, Lynn S.",Independent,False,3390,1130635
+2016,California,"Clinton, Hillary",Democrat,False,8753788,14181595
+2016,California,"Trump, Donald J.",Republican,False,4483810,14181595
+2016,California,"Johnson, Gary",Libertarian,False,478500,14181595
+2016,California,"Stein, Jill",Green,False,278657,14181595
 2016,California,,,True,120739,14181595
-2016,California,"La Riva, Gloria Estella",peace & freedom,False,66101,14181595
-2016,Colorado,"Clinton, Hillary",democrat,False,1338870,2780220
-2016,Colorado,"Trump, Donald J.",republican,False,1202484,2780220
-2016,Colorado,"Johnson, Gary",libertarian,False,144121,2780220
-2016,Colorado,"Stein, Jill",green,False,38437,2780220
-2016,Colorado,Scattering,unaffiliated,False,31485,2780220
-2016,Colorado,"Castle, Darrell L.",american constitution party,False,11699,2780220
-2016,Colorado,"Keniston, Chris",veterans party of america,False,5028,2780220
-2016,Colorado,"De La Fuente, Roque """"Rocky""""",american delta party,False,1255,2780220
-2016,Colorado,"Kopitke, Kyle Kenley",independent american,False,1096,2780220
-2016,Colorado,"Maldonado, Joseph Allen",independent people of colorado,False,872,2780220
-2016,Colorado,"Maturen, Michael A.",american solidarity party,False,862,2780220
-2016,Colorado,"Silva, Rod",nutrition party,False,751,2780220
-2016,Colorado,"Hoefling, Tom",america's party,False,710,2780220
-2016,Colorado,"La Riva, Gloria Estella",socialism and liberation party,False,531,2780220
-2016,Colorado,"Kennedy, Alyson",socialist workers,False,452,2780220
-2016,Colorado,"Kotlikoff, Laurence",kotlikoff for president,False,392,2780220
-2016,Colorado,"Lyttle, Bradford",nonviolent resistance/pacifist,False,382,2780220
-2016,Colorado,"Atwood, Frank",approval voting party,False,337,2780220
-2016,Colorado,"Emidio """"Mimi"""", Soltysik",socialist party usa,False,271,2780220
-2016,Colorado,"Hedges, James",prohibition,False,185,2780220
-2016,Connecticut,"Clinton, Hillary",democrat,False,897572,1644920
-2016,Connecticut,"Trump, Donald J.",republican,False,673215,1644920
-2016,Connecticut,"Johnson, Gary",libertarian,False,48676,1644920
-2016,Connecticut,"Stein, Jill",green,False,22841,1644920
+2016,California,"La Riva, Gloria Estella",Peace & Freedom,False,66101,14181595
+2016,Colorado,"Clinton, Hillary",Democrat,False,1338870,2780220
+2016,Colorado,"Trump, Donald J.",Republican,False,1202484,2780220
+2016,Colorado,"Johnson, Gary",Libertarian,False,144121,2780220
+2016,Colorado,"Stein, Jill",Green,False,38437,2780220
+2016,Colorado,Scattering,Unaffiliated,False,31485,2780220
+2016,Colorado,"Castle, Darrell L.",American Constitution Party,False,11699,2780220
+2016,Colorado,"Keniston, Chris",Veterans Party Of America,False,5028,2780220
+2016,Colorado,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1255,2780220
+2016,Colorado,"Kopitke, Kyle Kenley",Independent American,False,1096,2780220
+2016,Colorado,"Maldonado, Joseph Allen",Independent People Of Colorado,False,872,2780220
+2016,Colorado,"Maturen, Michael A.",American Solidarity Party,False,862,2780220
+2016,Colorado,"Silva, Rod",Nutrition Party,False,751,2780220
+2016,Colorado,"Hoefling, Tom",America'S Party,False,710,2780220
+2016,Colorado,"La Riva, Gloria Estella",Socialism And Liberation Party,False,531,2780220
+2016,Colorado,"Kennedy, Alyson",Socialist Workers,False,452,2780220
+2016,Colorado,"Kotlikoff, Laurence",Kotlikoff For President,False,392,2780220
+2016,Colorado,"Lyttle, Bradford",Nonviolent Resistance/Pacifist,False,382,2780220
+2016,Colorado,"Atwood, Frank",Approval Voting Party,False,337,2780220
+2016,Colorado,"Emidio """"Mimi"""", Soltysik",Socialist Party Usa,False,271,2780220
+2016,Colorado,"Hedges, James",Prohibition,False,185,2780220
+2016,Connecticut,"Clinton, Hillary",Democrat,False,897572,1644920
+2016,Connecticut,"Trump, Donald J.",Republican,False,673215,1644920
+2016,Connecticut,"Johnson, Gary",Libertarian,False,48676,1644920
+2016,Connecticut,"Stein, Jill",Green,False,22841,1644920
 2016,Connecticut,,,True,2616,1644920
-2016,Delaware,"Clinton, Hillary",democrat,False,235603,441590
-2016,Delaware,"Trump, Donald J.",republican,False,185127,441590
-2016,Delaware,"Johnson, Gary",libertarian,False,14757,441590
-2016,Delaware,"Stein, Jill",green,False,6103,441590
-2016,District of Columbia,"Clinton, Hillary",democrat,False,282830,312575
-2016,District of Columbia,"Trump, Donald J.",republican,False,12723,312575
+2016,Delaware,"Clinton, Hillary",Democrat,False,235603,441590
+2016,Delaware,"Trump, Donald J.",Republican,False,185127,441590
+2016,Delaware,"Johnson, Gary",Libertarian,False,14757,441590
+2016,Delaware,"Stein, Jill",Green,False,6103,441590
+2016,District of Columbia,"Clinton, Hillary",Democrat,False,282830,312575
+2016,District of Columbia,"Trump, Donald J.",Republican,False,12723,312575
 2016,District of Columbia,,,True,6551,312575
-2016,District of Columbia,"Johnson, Gary",libertarian,False,4906,312575
-2016,District of Columbia,"Stein, Jill",green,False,4258,312575
+2016,District of Columbia,"Johnson, Gary",Libertarian,False,4906,312575
+2016,District of Columbia,"Stein, Jill",Green,False,4258,312575
 2016,District of Columbia,Blank Vote,,False,1064,312575
 2016,District of Columbia,Over Vote,,False,243,312575
-2016,Florida,"Trump, Donald J.",republican,False,4617886,9420039
-2016,Florida,"Clinton, Hillary",democrat,False,4504975,9420039
-2016,Florida,"Johnson, Gary",libertarian,False,207043,9420039
-2016,Florida,"Stein, Jill",green,False,64399,9420039
-2016,Florida,"Castle, Darrell L.",constitution party,False,16475,9420039
-2016,Florida,"De La Fuente, Roque """"Rocky""""",reform party,False,9108,9420039
+2016,Florida,"Trump, Donald J.",Republican,False,4617886,9420039
+2016,Florida,"Clinton, Hillary",Democrat,False,4504975,9420039
+2016,Florida,"Johnson, Gary",Libertarian,False,207043,9420039
+2016,Florida,"Stein, Jill",Green,False,64399,9420039
+2016,Florida,"Castle, Darrell L.",Constitution Party,False,16475,9420039
+2016,Florida,"De La Fuente, Roque """"Rocky""""",Reform Party,False,9108,9420039
 2016,Florida,,,True,153,9420039
-2016,Georgia,"Trump, Donald J.",republican,False,2089104,4114732
-2016,Georgia,"Clinton, Hillary",democrat,False,1877963,4114732
-2016,Georgia,"Johnson, Gary",libertarian,False,125306,4114732
+2016,Georgia,"Trump, Donald J.",Republican,False,2089104,4114732
+2016,Georgia,"Clinton, Hillary",Democrat,False,1877963,4114732
+2016,Georgia,"Johnson, Gary",Libertarian,False,125306,4114732
 2016,Georgia,,,True,22359,4114732
-2016,Hawaii,"Clinton, Hillary",democrat,False,266891,437664
-2016,Hawaii,"Trump, Donald J.",republican,False,128847,437664
-2016,Hawaii,"Johnson, Gary",libertarian,False,15954,437664
-2016,Hawaii,"Stein, Jill",green,False,12737,437664
+2016,Hawaii,"Clinton, Hillary",Democrat,False,266891,437664
+2016,Hawaii,"Trump, Donald J.",Republican,False,128847,437664
+2016,Hawaii,"Johnson, Gary",Libertarian,False,15954,437664
+2016,Hawaii,"Stein, Jill",Green,False,12737,437664
 2016,Hawaii,Blank Vote,,False,8289,437664
-2016,Hawaii,"Castle, Darrell L.",constitution party,False,4508,437664
+2016,Hawaii,"Castle, Darrell L.",Constitution Party,False,4508,437664
 2016,Hawaii,Over Vote,,False,438,437664
-2016,Idaho,"Trump, Donald J.",republican,False,409055,690255
-2016,Idaho,"Clinton, Hillary",democrat,False,189765,690255
-2016,Idaho,"McMullin, Evan",independent,False,60748,690255
-2016,Idaho,"Johnson, Gary",libertarian,False,28331,690255
-2016,Idaho,"Castle, Darrell L.",constitution party,False,2356,690255
-2016,Illinois,"Clinton, Hillary",democrat,False,3090729,5536424
-2016,Illinois,"Trump, Donald J.",republican,False,2146015,5536424
-2016,Illinois,"Johnson, Gary",libertarian,False,209596,5536424
-2016,Illinois,"Stein, Jill",green,False,76802,5536424
+2016,Idaho,"Trump, Donald J.",Republican,False,409055,690255
+2016,Idaho,"Clinton, Hillary",Democrat,False,189765,690255
+2016,Idaho,"McMullin, Evan",Independent,False,60748,690255
+2016,Idaho,"Johnson, Gary",Libertarian,False,28331,690255
+2016,Idaho,"Castle, Darrell L.",Constitution Party,False,2356,690255
+2016,Illinois,"Clinton, Hillary",Democrat,False,3090729,5536424
+2016,Illinois,"Trump, Donald J.",Republican,False,2146015,5536424
+2016,Illinois,"Johnson, Gary",Libertarian,False,209596,5536424
+2016,Illinois,"Stein, Jill",Green,False,76802,5536424
 2016,Illinois,,,True,13282,5536424
-2016,Indiana,"Trump, Donald J.",republican,False,1557286,2734958
-2016,Indiana,"Clinton, Hillary",democrat,False,1033126,2734958
-2016,Indiana,"Johnson, Gary",libertarian,False,133993,2734958
-2016,Indiana,,green,True,7841,2734958
-2016,Indiana,"Castle, Darrell L.",constitution party,True,1937,2734958
-2016,Indiana,,independent,True,718,2734958
-2016,Indiana,"Emidio """"Mimi"""", Soltysik",socialist party usa,True,57,2734958
-2016,Iowa,"Trump, Donald J.",republican,False,800983,1565580
-2016,Iowa,"Clinton, Hillary",democrat,False,653669,1565580
-2016,Iowa,"Johnson, Gary",libertarian,False,59186,1565580
+2016,Indiana,"Trump, Donald J.",Republican,False,1557286,2734958
+2016,Indiana,"Clinton, Hillary",Democrat,False,1033126,2734958
+2016,Indiana,"Johnson, Gary",Libertarian,False,133993,2734958
+2016,Indiana,,Green,True,7841,2734958
+2016,Indiana,"Castle, Darrell L.",Constitution Party,True,1937,2734958
+2016,Indiana,,Independent,True,718,2734958
+2016,Indiana,"Emidio """"Mimi"""", Soltysik",Socialist Party Usa,True,57,2734958
+2016,Iowa,"Trump, Donald J.",Republican,False,800983,1565580
+2016,Iowa,"Clinton, Hillary",Democrat,False,653669,1565580
+2016,Iowa,"Johnson, Gary",Libertarian,False,59186,1565580
 2016,Iowa,,,True,17746,1565580
-2016,Iowa,"McMullin, Evan",nominated by petition,False,12366,1565580
-2016,Iowa,"Stein, Jill",green,False,11479,1565580
-2016,Iowa,"Castle, Darrell L.",constitution party,False,5335,1565580
-2016,Iowa,"Kahn, Lynn S.",new independent party iowa,False,2247,1565580
-2016,Iowa,"Vacek, Dan",legal marijuana now,False,2246,1565580
-2016,Iowa,"La Riva, Gloria Estella",socialism and liberation party,False,323,1565580
-2016,Kansas,"Trump, Donald J.",republican,False,671018,1184402
-2016,Kansas,"Clinton, Hillary",democrat,False,427005,1184402
-2016,Kansas,"Johnson, Gary",libertarian,False,55406,1184402
-2016,Kansas,"Stein, Jill",independent,False,23506,1184402
+2016,Iowa,"McMullin, Evan",Nominated By Petition,False,12366,1565580
+2016,Iowa,"Stein, Jill",Green,False,11479,1565580
+2016,Iowa,"Castle, Darrell L.",Constitution Party,False,5335,1565580
+2016,Iowa,"Kahn, Lynn S.",New Independent Party Iowa,False,2247,1565580
+2016,Iowa,"Vacek, Dan",Legal Marijuana Now,False,2246,1565580
+2016,Iowa,"La Riva, Gloria Estella",Socialism And Liberation Party,False,323,1565580
+2016,Kansas,"Trump, Donald J.",Republican,False,671018,1184402
+2016,Kansas,"Clinton, Hillary",Democrat,False,427005,1184402
+2016,Kansas,"Johnson, Gary",Libertarian,False,55406,1184402
+2016,Kansas,"Stein, Jill",Independent,False,23506,1184402
 2016,Kansas,,,True,7467,1184402
-2016,Kentucky,"Trump, Donald J.",republican,False,1202971,1924149
-2016,Kentucky,"Clinton, Hillary",democrat,False,628854,1924149
-2016,Kentucky,"Johnson, Gary",libertarian,False,53752,1924149
-2016,Kentucky,"McMullin, Evan",independent,False,22780,1924149
-2016,Kentucky,"Stein, Jill",green,False,13913,1924149
-2016,Kentucky,"De La Fuente, Roque """"Rocky""""",american delta party,False,1128,1924149
+2016,Kentucky,"Trump, Donald J.",Republican,False,1202971,1924149
+2016,Kentucky,"Clinton, Hillary",Democrat,False,628854,1924149
+2016,Kentucky,"Johnson, Gary",Libertarian,False,53752,1924149
+2016,Kentucky,"McMullin, Evan",Independent,False,22780,1924149
+2016,Kentucky,"Stein, Jill",Green,False,13913,1924149
+2016,Kentucky,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1128,1924149
 2016,Kentucky,,,True,751,1924149
-2016,Louisiana,"Trump, Donald J.",republican,False,1178638,2029032
-2016,Louisiana,"Clinton, Hillary",democrat,False,780154,2029032
-2016,Louisiana,"Johnson, Gary",libertarian,False,37978,2029032
+2016,Louisiana,"Trump, Donald J.",Republican,False,1178638,2029032
+2016,Louisiana,"Clinton, Hillary",Democrat,False,780154,2029032
+2016,Louisiana,"Johnson, Gary",Libertarian,False,37978,2029032
 2016,Louisiana,Other,,False,18231,2029032
-2016,Louisiana,"Stein, Jill",green,False,14031,2029032
-2016,Maine,"Clinton, Hillary",democrat,False,357735,771892
-2016,Maine,"Trump, Donald J.",republican,False,335593,771892
-2016,Maine,"Johnson, Gary",libertarian,False,38105,771892
+2016,Louisiana,"Stein, Jill",Green,False,14031,2029032
+2016,Maine,"Clinton, Hillary",Democrat,False,357735,771892
+2016,Maine,"Trump, Donald J.",Republican,False,335593,771892
+2016,Maine,"Johnson, Gary",Libertarian,False,38105,771892
 2016,Maine,Blank Vote,,False,23965,771892
-2016,Maine,"Stein, Jill",green,False,14251,771892
-2016,Maine,,unenrolled,False,2243,771892
-2016,Maryland,"Clinton, Hillary",democrat,False,1677928,2781446
-2016,Maryland,"Trump, Donald J.",republican,False,943169,2781446
-2016,Maryland,"Johnson, Gary",libertarian,False,79605,2781446
-2016,Maryland,"Stein, Jill",green,False,35945,2781446
+2016,Maine,"Stein, Jill",Green,False,14251,771892
+2016,Maine,,Unenrolled,False,2243,771892
+2016,Maryland,"Clinton, Hillary",Democrat,False,1677928,2781446
+2016,Maryland,"Trump, Donald J.",Republican,False,943169,2781446
+2016,Maryland,"Johnson, Gary",Libertarian,False,79605,2781446
+2016,Maryland,"Stein, Jill",Green,False,35945,2781446
 2016,Maryland,,,True,33263,2781446
 2016,Maryland,Other,,True,10921,2781446
-2016,Maryland,,no party affiliation,True,278,2781446
-2016,Maryland,"Trump, Donald J.",republican,True,259,2781446
-2016,Maryland,"Clinton, Hillary",democrat,True,78,2781446
-2016,Massachusetts,"Clinton, Hillary",democrat,False,1995196,3378821
-2016,Massachusetts,"Trump, Donald J.",republican,False,1090893,3378821
-2016,Massachusetts,"Johnson, Gary",libertarian,False,138018,3378821
+2016,Maryland,,No Party Affiliation,True,278,2781446
+2016,Maryland,"Trump, Donald J.",Republican,True,259,2781446
+2016,Maryland,"Clinton, Hillary",Democrat,True,78,2781446
+2016,Massachusetts,"Clinton, Hillary",Democrat,False,1995196,3378821
+2016,Massachusetts,"Trump, Donald J.",Republican,False,1090893,3378821
+2016,Massachusetts,"Johnson, Gary",Libertarian,False,138018,3378821
 2016,Massachusetts,Blank Vote,,False,53775,3378821
 2016,Massachusetts,Other,,False,50488,3378821
-2016,Massachusetts,"Stein, Jill",green,False,47661,3378821
+2016,Massachusetts,"Stein, Jill",Green,False,47661,3378821
 2016,Massachusetts,,,True,2790,3378821
-2016,Michigan,"Trump, Donald J.",republican,False,2279543,4799284
-2016,Michigan,"Clinton, Hillary",democrat,False,2268839,4799284
-2016,Michigan,"Johnson, Gary",libertarian,False,172136,4799284
-2016,Michigan,"Stein, Jill",green,False,51463,4799284
-2016,Michigan,"Castle, Darrell L.",u.s. taxpayers party,False,16139,4799284
+2016,Michigan,"Trump, Donald J.",Republican,False,2279543,4799284
+2016,Michigan,"Clinton, Hillary",Democrat,False,2268839,4799284
+2016,Michigan,"Johnson, Gary",Libertarian,False,172136,4799284
+2016,Michigan,"Stein, Jill",Green,False,51463,4799284
+2016,Michigan,"Castle, Darrell L.",U.S. Taxpayers Party,False,16139,4799284
 2016,Michigan,,,True,8955,4799284
-2016,Michigan,"Emidio """"Mimi"""", Soltysik",natural law,False,2209,4799284
-2016,Minnesota,"Clinton, Hillary",democrat,False,1367705,2944782
-2016,Minnesota,"Trump, Donald J.",republican,False,1322949,2944782
-2016,Minnesota,"Johnson, Gary",libertarian,False,112972,2944782
-2016,Minnesota,"McMullin, Evan",independence,False,53075,2944782
-2016,Minnesota,"Stein, Jill",green,False,36986,2944782
+2016,Michigan,"Emidio """"Mimi"""", Soltysik",Natural Law,False,2209,4799284
+2016,Minnesota,"Clinton, Hillary",Democrat,False,1367705,2944782
+2016,Minnesota,"Trump, Donald J.",Republican,False,1322949,2944782
+2016,Minnesota,"Johnson, Gary",Libertarian,False,112972,2944782
+2016,Minnesota,"McMullin, Evan",Independence,False,53075,2944782
+2016,Minnesota,"Stein, Jill",Green,False,36986,2944782
 2016,Minnesota,,,True,27247,2944782
-2016,Minnesota,"Vacek, Dan",legal marijuana now,False,11291,2944782
-2016,Minnesota,"Castle, Darrell L.",constitution party,False,9456,2944782
-2016,Minnesota,"Kennedy, Alyson",socialist workers,False,1671,2944782
-2016,Minnesota,"De La Fuente, Roque """"Rocky""""",american delta party,False,1430,2944782
-2016,Mississippi,"Trump, Donald J.",republican,False,700714,1209357
-2016,Mississippi,"Clinton, Hillary",democrat,False,485131,1209357
-2016,Mississippi,"Johnson, Gary",libertarian,False,14435,1209357
-2016,Mississippi,"Castle, Darrell L.",constitution party,False,3987,1209357
-2016,Mississippi,"Stein, Jill",green,False,3731,1209357
-2016,Mississippi,"Hedges, James",prohibition,False,715,1209357
-2016,Mississippi,"De La Fuente, Roque """"Rocky""""",american delta party,False,644,1209357
-2016,Missouri,"Trump, Donald J.",republican,False,1594511,2808605
-2016,Missouri,"Clinton, Hillary",democrat,False,1071068,2808605
-2016,Missouri,"Johnson, Gary",libertarian,False,97359,2808605
-2016,Missouri,"Stein, Jill",green,False,25419,2808605
-2016,Missouri,"Castle, Darrell L.",constitution party,False,13092,2808605
+2016,Minnesota,"Vacek, Dan",Legal Marijuana Now,False,11291,2944782
+2016,Minnesota,"Castle, Darrell L.",Constitution Party,False,9456,2944782
+2016,Minnesota,"Kennedy, Alyson",Socialist Workers,False,1671,2944782
+2016,Minnesota,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1430,2944782
+2016,Mississippi,"Trump, Donald J.",Republican,False,700714,1209357
+2016,Mississippi,"Clinton, Hillary",Democrat,False,485131,1209357
+2016,Mississippi,"Johnson, Gary",Libertarian,False,14435,1209357
+2016,Mississippi,"Castle, Darrell L.",Constitution Party,False,3987,1209357
+2016,Mississippi,"Stein, Jill",Green,False,3731,1209357
+2016,Mississippi,"Hedges, James",Prohibition,False,715,1209357
+2016,Mississippi,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,644,1209357
+2016,Missouri,"Trump, Donald J.",Republican,False,1594511,2808605
+2016,Missouri,"Clinton, Hillary",Democrat,False,1071068,2808605
+2016,Missouri,"Johnson, Gary",Libertarian,False,97359,2808605
+2016,Missouri,"Stein, Jill",Green,False,25419,2808605
+2016,Missouri,"Castle, Darrell L.",Constitution Party,False,13092,2808605
 2016,Missouri,,,True,7156,2808605
-2016,Montana,"Trump, Donald J.",republican,False,279240,494526
-2016,Montana,"Clinton, Hillary",democrat,False,177709,494526
-2016,Montana,"Johnson, Gary",libertarian,False,28037,494526
-2016,Montana,"Stein, Jill",green,False,7970,494526
-2016,Montana,"De La Fuente, Roque """"Rocky""""",american delta party,False,1570,494526
-2016,Nebraska,"Trump, Donald J.",republican,False,495961,844227
-2016,Nebraska,"Clinton, Hillary",democrat,False,284494,844227
-2016,Nebraska,"Johnson, Gary",libertarian,False,38946,844227
+2016,Montana,"Trump, Donald J.",Republican,False,279240,494526
+2016,Montana,"Clinton, Hillary",Democrat,False,177709,494526
+2016,Montana,"Johnson, Gary",Libertarian,False,28037,494526
+2016,Montana,"Stein, Jill",Green,False,7970,494526
+2016,Montana,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1570,494526
+2016,Nebraska,"Trump, Donald J.",Republican,False,495961,844227
+2016,Nebraska,"Clinton, Hillary",Democrat,False,284494,844227
+2016,Nebraska,"Johnson, Gary",Libertarian,False,38946,844227
 2016,Nebraska,,,True,16051,844227
-2016,Nebraska,"Stein, Jill",nominated by petition,False,8775,844227
-2016,Nevada,"Clinton, Hillary",democrat,False,539260,1125385
-2016,Nevada,"Trump, Donald J.",republican,False,512058,1125385
-2016,Nevada,"Johnson, Gary",libertarian,False,37384,1125385
+2016,Nebraska,"Stein, Jill",Nominated By Petition,False,8775,844227
+2016,Nevada,"Clinton, Hillary",Democrat,False,539260,1125385
+2016,Nevada,"Trump, Donald J.",Republican,False,512058,1125385
+2016,Nevada,"Johnson, Gary",Libertarian,False,37384,1125385
 2016,Nevada,None Of The Above,,False,28863,1125385
-2016,Nevada,"Kopitke, Kyle Kenley",independent american,False,5268,1125385
-2016,Nevada,"De La Fuente, Roque """"Rocky""""",no party affiliation,False,2552,1125385
-2016,New Hampshire,"Clinton, Hillary",democrat,False,348526,744296
-2016,New Hampshire,"Trump, Donald J.",republican,False,345790,744296
-2016,New Hampshire,"Johnson, Gary",libertarian,False,30777,744296
+2016,Nevada,"Kopitke, Kyle Kenley",Independent American,False,5268,1125385
+2016,Nevada,"De La Fuente, Roque """"Rocky""""",No Party Affiliation,False,2552,1125385
+2016,New Hampshire,"Clinton, Hillary",Democrat,False,348526,744296
+2016,New Hampshire,"Trump, Donald J.",Republican,False,345790,744296
+2016,New Hampshire,"Johnson, Gary",Libertarian,False,30777,744296
 2016,New Hampshire,,,True,9618,744296
-2016,New Hampshire,"Stein, Jill",green,False,6496,744296
+2016,New Hampshire,"Stein, Jill",Green,False,6496,744296
 2016,New Hampshire,Scattering,,True,2411,744296
-2016,New Hampshire,"De La Fuente, Roque """"Rocky""""",american delta party,False,678,744296
-2016,New Jersey,"Clinton, Hillary",democrat,False,2148278,3874046
-2016,New Jersey,"Trump, Donald J.",republican,False,1601933,3874046
-2016,New Jersey,"Johnson, Gary",libertarian,False,72477,3874046
-2016,New Jersey,"Stein, Jill",green,False,37772,3874046
-2016,New Jersey,"Castle, Darrell L.",constitution party,False,6161,3874046
-2016,New Jersey,"Kennedy, Alyson",socialist workers,False,2156,3874046
-2016,New Jersey,"De La Fuente, Roque """"Rocky""""",american delta party,False,1838,3874046
-2016,New Jersey,"Moorehead, Monica",workers world party,False,1749,3874046
-2016,New Jersey,"La Riva, Gloria Estella",socialism and liberation party,False,1682,3874046
-2016,New Mexico,"Clinton, Hillary",democrat,False,385234,798319
-2016,New Mexico,"Trump, Donald J.",republican,False,319667,798319
-2016,New Mexico,"Johnson, Gary",libertarian,False,74541,798319
-2016,New Mexico,"Stein, Jill",green,False,9879,798319
-2016,New Mexico,"McMullin, Evan",better for america,False,5825,798319
-2016,New Mexico,"Castle, Darrell L.",constitution party,False,1514,798319
-2016,New Mexico,"La Riva, Gloria Estella",socialism and liberation party,False,1184,798319
-2016,New Mexico,"De La Fuente, Roque """"Rocky""""",american delta party,False,475,798319
-2016,New York,"Clinton, Hillary",democrat,False,4379789,7802084
-2016,New York,"Trump, Donald J.",republican,False,2527142,7802084
-2016,New York,"Trump, Donald J.",conservative,False,292392,7802084
-2016,New York,"Clinton, Hillary",working families,False,140041,7802084
-2016,New York,"Johnson, Gary",independence,False,119156,7802084
-2016,New York,"Stein, Jill",green,False,107934,7802084
+2016,New Hampshire,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,678,744296
+2016,New Jersey,"Clinton, Hillary",Democrat,False,2148278,3874046
+2016,New Jersey,"Trump, Donald J.",Republican,False,1601933,3874046
+2016,New Jersey,"Johnson, Gary",Libertarian,False,72477,3874046
+2016,New Jersey,"Stein, Jill",Green,False,37772,3874046
+2016,New Jersey,"Castle, Darrell L.",Constitution Party,False,6161,3874046
+2016,New Jersey,"Kennedy, Alyson",Socialist Workers,False,2156,3874046
+2016,New Jersey,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1838,3874046
+2016,New Jersey,"Moorehead, Monica",Workers World Party,False,1749,3874046
+2016,New Jersey,"La Riva, Gloria Estella",Socialism And Liberation Party,False,1682,3874046
+2016,New Mexico,"Clinton, Hillary",Democrat,False,385234,798319
+2016,New Mexico,"Trump, Donald J.",Republican,False,319667,798319
+2016,New Mexico,"Johnson, Gary",Libertarian,False,74541,798319
+2016,New Mexico,"Stein, Jill",Green,False,9879,798319
+2016,New Mexico,"McMullin, Evan",Better For America,False,5825,798319
+2016,New Mexico,"Castle, Darrell L.",Constitution Party,False,1514,798319
+2016,New Mexico,"La Riva, Gloria Estella",Socialism And Liberation Party,False,1184,798319
+2016,New Mexico,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,475,798319
+2016,New York,"Clinton, Hillary",Democrat,False,4379789,7802084
+2016,New York,"Trump, Donald J.",Republican,False,2527142,7802084
+2016,New York,"Trump, Donald J.",Conservative,False,292392,7802084
+2016,New York,"Clinton, Hillary",Working Families,False,140041,7802084
+2016,New York,"Johnson, Gary",Independence,False,119156,7802084
+2016,New York,"Stein, Jill",Green,False,107934,7802084
 2016,New York,Blank Vote,,False,77179,7802084
-2016,New York,"Johnson, Gary",libertarian,False,57442,7802084
+2016,New York,"Johnson, Gary",Libertarian,False,57442,7802084
 2016,New York,Scattering,,False,48447,7802084
-2016,New York,"Clinton, Hillary",women's equality,False,36294,7802084
+2016,New York,"Clinton, Hillary",Women'S Equality,False,36294,7802084
 2016,New York,,,True,12816,7802084
 2016,New York,Void Vote,,False,3452,7802084
-2016,North Carolina,"Trump, Donald J.",republican,False,2362631,4741564
-2016,North Carolina,"Clinton, Hillary",democrat,False,2189316,4741564
-2016,North Carolina,"Johnson, Gary",libertarian,False,130126,4741564
+2016,North Carolina,"Trump, Donald J.",Republican,False,2362631,4741564
+2016,North Carolina,"Clinton, Hillary",Democrat,False,2189316,4741564
+2016,North Carolina,"Johnson, Gary",Libertarian,False,130126,4741564
 2016,North Carolina,Scattering,,True,47386,4741564
 2016,North Carolina,,,True,12105,4741564
-2016,North Dakota,"Trump, Donald J.",republican,False,216794,344360
-2016,North Dakota,"Clinton, Hillary",democrat,False,93758,344360
-2016,North Dakota,"Johnson, Gary",libertarian,False,21434,344360
+2016,North Dakota,"Trump, Donald J.",Republican,False,216794,344360
+2016,North Dakota,"Clinton, Hillary",Democrat,False,93758,344360
+2016,North Dakota,"Johnson, Gary",Libertarian,False,21434,344360
 2016,North Dakota,,,True,6397,344360
-2016,North Dakota,"Stein, Jill",green,False,3780,344360
-2016,North Dakota,"Castle, Darrell L.",constitution party,False,1833,344360
-2016,North Dakota,"De La Fuente, Roque """"Rocky""""",american delta party,False,364,344360
-2016,Ohio,"Trump, Donald J.",republican,False,2841005,5496487
-2016,Ohio,"Clinton, Hillary",democrat,False,2394164,5496487
-2016,Ohio,,no party affiliation,False,198733,5496487
-2016,Ohio,"Stein, Jill",green,False,46271,5496487
+2016,North Dakota,"Stein, Jill",Green,False,3780,344360
+2016,North Dakota,"Castle, Darrell L.",Constitution Party,False,1833,344360
+2016,North Dakota,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,364,344360
+2016,Ohio,"Trump, Donald J.",Republican,False,2841005,5496487
+2016,Ohio,"Clinton, Hillary",Democrat,False,2394164,5496487
+2016,Ohio,,No Party Affiliation,False,198733,5496487
+2016,Ohio,"Stein, Jill",Green,False,46271,5496487
 2016,Ohio,,,True,16314,5496487
-2016,Oklahoma,"Trump, Donald J.",republican,False,949136,1452992
-2016,Oklahoma,"Clinton, Hillary",democrat,False,420375,1452992
-2016,Oklahoma,"Johnson, Gary",libertarian,False,83481,1452992
-2016,Oregon,"Clinton, Hillary",democrat,False,1002106,2001336
-2016,Oregon,"Trump, Donald J.",republican,False,782403,2001336
-2016,Oregon,"Johnson, Gary",libertarian,False,94231,2001336
+2016,Oklahoma,"Trump, Donald J.",Republican,False,949136,1452992
+2016,Oklahoma,"Clinton, Hillary",Democrat,False,420375,1452992
+2016,Oklahoma,"Johnson, Gary",Libertarian,False,83481,1452992
+2016,Oregon,"Clinton, Hillary",Democrat,False,1002106,2001336
+2016,Oregon,"Trump, Donald J.",Republican,False,782403,2001336
+2016,Oregon,"Johnson, Gary",Libertarian,False,94231,2001336
 2016,Oregon,Other,,False,72594,2001336
-2016,Oregon,"Stein, Jill",green,False,50002,2001336
-2016,Pennsylvania,"Trump, Donald J.",republican,False,2970733,6115402
-2016,Pennsylvania,"Clinton, Hillary",democrat,False,2926441,6115402
-2016,Pennsylvania,"Johnson, Gary",libertarian,False,146715,6115402
-2016,Pennsylvania,"Stein, Jill",green,False,49941,6115402
-2016,Pennsylvania,"Castle, Darrell L.",constitution party,False,21572,6115402
-2016,Rhode Island,"Clinton, Hillary",democrat,False,252525,464144
-2016,Rhode Island,"Trump, Donald J.",republican,False,180543,464144
-2016,Rhode Island,"Johnson, Gary",libertarian,False,14746,464144
+2016,Oregon,"Stein, Jill",Green,False,50002,2001336
+2016,Pennsylvania,"Trump, Donald J.",Republican,False,2970733,6115402
+2016,Pennsylvania,"Clinton, Hillary",Democrat,False,2926441,6115402
+2016,Pennsylvania,"Johnson, Gary",Libertarian,False,146715,6115402
+2016,Pennsylvania,"Stein, Jill",Green,False,49941,6115402
+2016,Pennsylvania,"Castle, Darrell L.",Constitution Party,False,21572,6115402
+2016,Rhode Island,"Clinton, Hillary",Democrat,False,252525,464144
+2016,Rhode Island,"Trump, Donald J.",Republican,False,180543,464144
+2016,Rhode Island,"Johnson, Gary",Libertarian,False,14746,464144
 2016,Rhode Island,,,True,9439,464144
-2016,Rhode Island,"Stein, Jill",green,False,6220,464144
-2016,Rhode Island,"De La Fuente, Roque """"Rocky""""",american delta party,False,671,464144
-2016,South Carolina,"Trump, Donald J.",republican,False,1155389,2103027
-2016,South Carolina,"Clinton, Hillary",democrat,False,855373,2103027
-2016,South Carolina,"Johnson, Gary",libertarian,False,49204,2103027
-2016,South Carolina,"McMullin, Evan",independence,False,21016,2103027
-2016,South Carolina,"Stein, Jill",green,False,13034,2103027
-2016,South Carolina,"Castle, Darrell L.",constitution party,False,5765,2103027
-2016,South Carolina,"Skewes, Peter",american,False,3246,2103027
-2016,South Dakota,"Trump, Donald J.",republican,False,227721,370093
-2016,South Dakota,"Clinton, Hillary",democrat,False,117458,370093
-2016,South Dakota,"Johnson, Gary",libertarian,False,20850,370093
-2016,South Dakota,"Castle, Darrell L.",constitution party,False,4064,370093
-2016,Tennessee,"Trump, Donald J.",republican,False,1522925,2508027
-2016,Tennessee,"Clinton, Hillary",democrat,False,870695,2508027
-2016,Tennessee,,independent,False,100618,2508027
+2016,Rhode Island,"Stein, Jill",Green,False,6220,464144
+2016,Rhode Island,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,671,464144
+2016,South Carolina,"Trump, Donald J.",Republican,False,1155389,2103027
+2016,South Carolina,"Clinton, Hillary",Democrat,False,855373,2103027
+2016,South Carolina,"Johnson, Gary",Libertarian,False,49204,2103027
+2016,South Carolina,"McMullin, Evan",Independence,False,21016,2103027
+2016,South Carolina,"Stein, Jill",Green,False,13034,2103027
+2016,South Carolina,"Castle, Darrell L.",Constitution Party,False,5765,2103027
+2016,South Carolina,"Skewes, Peter",American,False,3246,2103027
+2016,South Dakota,"Trump, Donald J.",Republican,False,227721,370093
+2016,South Dakota,"Clinton, Hillary",Democrat,False,117458,370093
+2016,South Dakota,"Johnson, Gary",Libertarian,False,20850,370093
+2016,South Dakota,"Castle, Darrell L.",Constitution Party,False,4064,370093
+2016,Tennessee,"Trump, Donald J.",Republican,False,1522925,2508027
+2016,Tennessee,"Clinton, Hillary",Democrat,False,870695,2508027
+2016,Tennessee,,Independent,False,100618,2508027
 2016,Tennessee,,,True,13789,2508027
-2016,Texas,"Trump, Donald J.",republican,False,4685047,8969226
-2016,Texas,"Clinton, Hillary",democrat,False,3877868,8969226
-2016,Texas,"Johnson, Gary",libertarian,False,283492,8969226
-2016,Texas,"Stein, Jill",green,False,71558,8969226
+2016,Texas,"Trump, Donald J.",Republican,False,4685047,8969226
+2016,Texas,"Clinton, Hillary",Democrat,False,3877868,8969226
+2016,Texas,"Johnson, Gary",Libertarian,False,283492,8969226
+2016,Texas,"Stein, Jill",Green,False,71558,8969226
 2016,Texas,,,True,51261,8969226
-2016,Utah,"Trump, Donald J.",republican,False,515211,1131317
-2016,Utah,"Clinton, Hillary",democrat,False,310674,1131317
-2016,Utah,"McMullin, Evan",no party affiliation,False,255060,1131317
-2016,Utah,"Johnson, Gary",libertarian,False,39608,1131317
-2016,Utah,"Castle, Darrell L.",constitution party,False,8032,1131317
-2016,Utah,"Kopitke, Kyle Kenley",independent american,False,2732,1131317
-2016,Vermont,"Clinton, Hillary",democrat,False,178573,320467
-2016,Vermont,"Trump, Donald J.",republican,False,95369,320467
+2016,Utah,"Trump, Donald J.",Republican,False,515211,1131317
+2016,Utah,"Clinton, Hillary",Democrat,False,310674,1131317
+2016,Utah,"McMullin, Evan",No Party Affiliation,False,255060,1131317
+2016,Utah,"Johnson, Gary",Libertarian,False,39608,1131317
+2016,Utah,"Castle, Darrell L.",Constitution Party,False,8032,1131317
+2016,Utah,"Kopitke, Kyle Kenley",Independent American,False,2732,1131317
+2016,Vermont,"Clinton, Hillary",Democrat,False,178573,320467
+2016,Vermont,"Trump, Donald J.",Republican,False,95369,320467
 2016,Vermont,,,True,22899,320467
-2016,Vermont,"Johnson, Gary",libertarian,False,10078,320467
-2016,Vermont,"Stein, Jill",green,False,6758,320467
+2016,Vermont,"Johnson, Gary",Libertarian,False,10078,320467
+2016,Vermont,"Stein, Jill",Green,False,6758,320467
 2016,Vermont,Blank Vote,,False,4574,320467
-2016,Vermont,"De La Fuente, Roque """"Rocky""""",independent,False,1063,320467
+2016,Vermont,"De La Fuente, Roque """"Rocky""""",Independent,False,1063,320467
 2016,Vermont,Void Vote,,False,826,320467
-2016,Vermont,"La Riva, Gloria Estella",liberty union party,False,327,320467
-2016,Virginia,"Clinton, Hillary",democrat,False,1981473,3982752
-2016,Virginia,"Trump, Donald J.",republican,False,1769443,3982752
-2016,Virginia,"Johnson, Gary",libertarian,False,118274,3982752
-2016,Virginia,"McMullin, Evan",independent,False,54054,3982752
+2016,Vermont,"La Riva, Gloria Estella",Liberty Union Party,False,327,320467
+2016,Virginia,"Clinton, Hillary",Democrat,False,1981473,3982752
+2016,Virginia,"Trump, Donald J.",Republican,False,1769443,3982752
+2016,Virginia,"Johnson, Gary",Libertarian,False,118274,3982752
+2016,Virginia,"McMullin, Evan",Independent,False,54054,3982752
 2016,Virginia,,,True,31870,3982752
-2016,Virginia,"Stein, Jill",green,False,27638,3982752
-2016,Washington,"Clinton, Hillary",democrat,False,1742718,3317019
-2016,Washington,"Trump, Donald J.",republican,False,1221747,3317019
-2016,Washington,"Johnson, Gary",libertarian,False,160879,3317019
+2016,Virginia,"Stein, Jill",Green,False,27638,3982752
+2016,Washington,"Clinton, Hillary",Democrat,False,1742718,3317019
+2016,Washington,"Trump, Donald J.",Republican,False,1221747,3317019
+2016,Washington,"Johnson, Gary",Libertarian,False,160879,3317019
 2016,Washington,,,True,107805,3317019
-2016,Washington,"Stein, Jill",green,False,58417,3317019
-2016,Washington,"Castle, Darrell L.",constitution party,False,17623,3317019
-2016,Washington,"Kennedy, Alyson",socialist workers,False,4307,3317019
-2016,Washington,"La Riva, Gloria Estella",socialism and liberation party,False,3523,3317019
-2016,West Virginia,"Trump, Donald J.",republican,False,489371,713051
-2016,West Virginia,"Clinton, Hillary",democrat,False,188794,713051
-2016,West Virginia,"Johnson, Gary",libertarian,False,23004,713051
-2016,West Virginia,"Stein, Jill",green,False,8075,713051
-2016,West Virginia,"Castle, Darrell L.",constitution party,False,3807,713051
-2016,Wisconsin,"Trump, Donald J.",republican,False,1405284,2976150
-2016,Wisconsin,"Clinton, Hillary",democrat,False,1382536,2976150
-2016,Wisconsin,"Johnson, Gary",libertarian,False,106674,2976150
-2016,Wisconsin,"Stein, Jill",green,False,31072,2976150
+2016,Washington,"Stein, Jill",Green,False,58417,3317019
+2016,Washington,"Castle, Darrell L.",Constitution Party,False,17623,3317019
+2016,Washington,"Kennedy, Alyson",Socialist Workers,False,4307,3317019
+2016,Washington,"La Riva, Gloria Estella",Socialism And Liberation Party,False,3523,3317019
+2016,West Virginia,"Trump, Donald J.",Republican,False,489371,713051
+2016,West Virginia,"Clinton, Hillary",Democrat,False,188794,713051
+2016,West Virginia,"Johnson, Gary",Libertarian,False,23004,713051
+2016,West Virginia,"Stein, Jill",Green,False,8075,713051
+2016,West Virginia,"Castle, Darrell L.",Constitution Party,False,3807,713051
+2016,Wisconsin,"Trump, Donald J.",Republican,False,1405284,2976150
+2016,Wisconsin,"Clinton, Hillary",Democrat,False,1382536,2976150
+2016,Wisconsin,"Johnson, Gary",Libertarian,False,106674,2976150
+2016,Wisconsin,"Stein, Jill",Green,False,31072,2976150
 2016,Wisconsin,Scattering,,False,22764,2976150
 2016,Wisconsin,,,True,12386,2976150
-2016,Wisconsin,"Castle, Darrell L.",constitution party,False,12162,2976150
-2016,Wisconsin,"Moorehead, Monica",workers world party,False,1770,2976150
-2016,Wisconsin,"De La Fuente, Roque """"Rocky""""",american delta party,False,1502,2976150
-2016,Wyoming,"Trump, Donald J.",republican,False,174419,258788
-2016,Wyoming,"Clinton, Hillary",democrat,False,55973,258788
-2016,Wyoming,"Johnson, Gary",libertarian,False,13287,258788
+2016,Wisconsin,"Castle, Darrell L.",Constitution Party,False,12162,2976150
+2016,Wisconsin,"Moorehead, Monica",Workers World Party,False,1770,2976150
+2016,Wisconsin,"De La Fuente, Roque """"Rocky""""",American Delta Party,False,1502,2976150
+2016,Wyoming,"Trump, Donald J.",Republican,False,174419,258788
+2016,Wyoming,"Clinton, Hillary",Democrat,False,55973,258788
+2016,Wyoming,"Johnson, Gary",Libertarian,False,13287,258788
 2016,Wyoming,,,True,6904,258788
-2016,Wyoming,,independent,False,3224,258788
+2016,Wyoming,,Independent,False,3224,258788
 2016,Wyoming,Blank Vote,,False,2661,258788
-2016,Wyoming,"Castle, Darrell L.",constitution party,False,2042,258788
+2016,Wyoming,"Castle, Darrell L.",Constitution Party,False,2042,258788
 2016,Wyoming,Over Vote,,False,278,258788
