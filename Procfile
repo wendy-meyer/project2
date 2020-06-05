@@ -1,1 +1,1 @@
-web: gunicorn
+web: gunicorn voting_app/app:app
