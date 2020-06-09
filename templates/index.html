@@ -1,39 +1,165 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pet Pals!</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+  </style>
 </head>
-
 <body>
-    <div class="container">
-        <div class="jumbotron" style="text-align: center">
-            <h1>Pet Pal</h1>
-            <p>Find your pet a pal!</p>
-        </div>
 
-        <div class="row">
-            <div class="col-md-12">
-                <h2>Look at all of the current pet pals!</h2>
-                <div id="plot"></div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-12">
-                <h2><a href="/send">Add your pet here!</a></h2>
-            </div>
-        </div>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">2012 & 2016 Presidental Voting Analysis</a>
     </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+      </ul>
+    </div>
+  </div>
+</nav>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+<div class="jumbotron">
+  <div class="container text-center">
+    <h2>Voting Distribution By State</h2>      
+    <p>Some description...</p>
+    <!-- <div class="row">
+      <div class="col-lg-12  col-md-9">
+        <div id="map">
+          
+           We append our map chart here.
+        </div>
+      </div>
+    </div> -->
+  </div>
+</div>
+  
+<div class="container-fluid bg-3 text-center">    
+  <div class="well">
+    	<h3>By Year</h3><br>
+          <!-- <h5>Select 2012 or 2016:</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)">
+              <option value="dataset1">2016</option>
+              <option value="dataset2">2012</option>
+            </select>
+          </select> -->
+        </div>
+    <div class="col-lg-12">
+      <!-- <p>Map Goes Below Here</p> -->
+      <div class="row">
+      <div class="col-xs-12  col-md-9">
+      <br><br>
+        <div id="map">
+          <div class='tableauPlaceholder' id='viz1591662626803' style='position: relative'>
+            <noscript><a href='#'>
+              <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_v2&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+            </a></noscript>
+            <object class='tableauViz'  style='display:none;'>
+              <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+              <param name='embed_code_version' value='3' /> 
+              <param name='site_root' value='' />
+              <param name='name' value='elections_2012_2016_v2&#47;Dashboard1' />
+              <param name='tabs' value='no' />
+              <param name='toolbar' value='yes' />
+              <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_v2&#47;Dashboard1&#47;1.png' /> 
+              <param name='animate_transition' value='yes' />
+              <param name='display_static_image' value='yes' />
+              <param name='display_spinner' value='yes' />
+              <param name='display_overlay' value='yes' />
+              <param name='display_count' value='yes' />
+              <param name='filter' value='publish=yes' />
+            </object>
+          </div>                
+          <script type='text/javascript'>                    
+          var divElement = document.getElementById('viz1591662626803');                    
+          var vizElement = divElement.getElementsByTagName('object')[0];                    
+          if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='1150px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='1287px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+          else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='1150px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='1287px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+          else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+          var scriptElement = document.createElement('script');                    
+          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+          </script>
+          <!-- We append our map here. -->
+        </div>
+        <br><br>
+      </div>
+    </div>
+    </div>
+    <!-- <div class="col-lg-12"> 
+      <p>Stacked Bar Chart</p>
+      <div class="row">
+      <div class="col-xs-12  col-md-9">
+      <br><br>
+        <div id="stacked_bar">
+          We append our stacked bar chart here.
+        </div>
+        <br><br>
+      </div> -->
+    </div>
+    </div>
+    </div>
+  <div class="container-fluid bg-3 text-center">    
+  	<div class="well">
+    	<h3>By State</h3><br>
+          <h5>Select a US State:</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)">
+            <!-- <option value="dataset1">Texas</option>
+            <option value="dataset2">Florida</option> -->
+          </select>
+        </div>
+          <div class="col-lg-6">
+      <p>Pie Chart Below Here</p>
+      <div class="row">
+      <div class="col-xs-12  col-md-6">
+      <br><br>
+        <div id="pie">
+          <!-- We append our pie chart here. -->
+        </div>
+        <br><br>
+      </div>
+    </div>
+    </div>
+    <div class="col-lg-6"> 
+      <p>Bar Chart</p>
+      <div class="row">
+      <div class="col-xs-12  col-md-6">
+      <br><br>
+        <div id="bar">
+          <!-- We append our bar chart here. -->
+        </div>
+        <br><br>
+      </div>
+    </div>
+    </div>
+    </div>
+    
+</div><br><br>
 
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+<footer class="container-fluid text-center">
+  <p>Brought to you by Benji, Margequx, Neelam, and Wendy!</p>
+</footer>
+
 </body>
-
 </html>
