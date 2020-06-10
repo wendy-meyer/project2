@@ -125,8 +125,9 @@
     	<h3>By State</h3><br>
           <h5>Select a US State:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)">
-            <!-- <option value="dataset1">Texas</option>
-            <option value="dataset2">Florida</option> -->
+            {% for state in states %}
+            <option value = "{{state}}" SELECTED>{{state}}</option>
+            {% endfor %}
           </select>
         </div>
           <div class="col-lg-6">

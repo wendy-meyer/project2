@@ -6,57 +6,52 @@ from flask import (
     jsonify,
     request,
     redirect)
+from sqlalchemy.dialects.postgresql import JSON
+from sqlalchemy import create_engine
+from sqlalchemy.orm import Session
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.ext.automap import automap_base
+from config import sql_user
+from config import sql_pw
 
 #################################################
 # Flask Setup
 #################################################
 app = Flask(__name__)
+db = SQLAlchemy()
 
 #################################################
 # Database Setup
 #################################################
+POSTGRES = {
+    'user': sql_user,
+    'pw': sql_pw,
+    'db': 'voting_db',
+    'host': 'localhost',
+    'port': '5432',
+}
 
-from flask_sqlalchemy import SQLAlchemy
 
-# Remove tracking modifications
+app.config['DEBUG'] = True
+db_uri = 'postgresql://%(user)s:%(pw)s@%(host)s:%(port)s/%(db)s' % POSTGRES
+app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db.init_app(app)
+
+#################################################
+# Flask Routes
+#################################################
+
 
 # create route that renders index.html template
 @app.route("/")
 def home():
-    return render_template("index.html")
-
-
-# Query the database and send the jsonified results
-@app.route("/send", methods=["GET", "POST"])
-def send():
-    if request.method == "POST":
-        return redirect("/", code=302)
-
-    return render_template("form.html")
-
-
-@app.route("/api/pals")
-def pals():
-
-    pet_data = [{
-        "type": "scattergeo",
-        "locationmode": "USA-states",
-        "lat": lat,
-        "lon": lon,
-        "text": hover_text,
-        "hoverinfo": "text",
-        "marker": {
-            "size": 50,
-            "line": {
-                "color": "rgb(8,8,8)",
-                "width": 1
-            },
-        }
-    }]
-
-    return jsonify(pet_data)
-
+    from models import Votes
+    results = db.session.query(Votes).distinct()
+    states = []
+    for r in results:
+        states.append(r.state)
+    return render_template("index.html", states=states)
 
 if __name__ == "__main__":
     app.run()
