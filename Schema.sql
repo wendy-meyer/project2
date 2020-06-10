@@ -3,6 +3,7 @@
 
 
 CREATE TABLE "US_Presidents_data" (
+    "rowid" serial,
     "year" char(6)   ,
     "state" varchar(256)   ,
     "party" varchar(256)   ,
