@@ -20,6 +20,10 @@ function graphit(yearSel, urlSel) {
     Plotly.d3.json(urlSel.concat(yearSel), (err, rows) => {
         //Filter the data by the dropdown selections
         const data = rows.filter(r => (r.party !== null));
+        var filteredParty2 = filteredParty.map(row =>{
+            return row.party
+        })
+        
         var otherColors = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6', 
         '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
         '#80B300', '#809900', '#E6B3B3', '#6680B3', '#66991A', 
