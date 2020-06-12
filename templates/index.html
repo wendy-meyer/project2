@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-    <title>Bootstrap Example</title>
+    <title>2012 and 2016 Election Data</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+    <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <link rel="stylesheet" href="static/css/style.css" media="screen">
     <style>
         /* Remove the navbar's default margin-bottom and rounded borders */
         
@@ -46,77 +47,36 @@
         </div>
     </nav>
 
-    <div class="jumbotron">
-        <div class="container text-center">
-            <h2>Voting Distribution By State</h2>
-            <p>Some description...</p>
-            <!-- <div class="row">
-      <div class="col-lg-12  col-md-9">
-        <div id="map">
-          
-           We append our map chart here.
-        </div>
-      </div>
-    </div> -->
+
+    <div id="header" class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Election Data Analysis</h1>
+            <p class="lead">An in-depth look at the 2012 and 2016 U.S. Presidential elections.</p>
         </div>
     </div>
 
     <div class="container-fluid bg-3 text-center">
-        <div class="well">
-            <h3>By Year</h3><br>
-            <!-- <h5>Select 2012 or 2016:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)">
-              <option value="dataset1">2016</option>
-              <option value="dataset2">2012</option>
-            </select>
-          </select> -->
-        </div>
+
         <div class="col-lg-12">
             <!-- <p>Map Goes Below Here</p> -->
             <div class="row">
-                <div class="col-xs-12  col-md-9">
+                <div class="col-12">
                     <br><br>
                     <div id="map">
-                        <div class='tableauPlaceholder' id='viz1591662626803' style='position: relative'>
-                            <noscript><a href='#'>
-              <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_v2&#47;Dashboard1&#47;1_rss.png' style='border: none' />
-            </a></noscript>
-                            <object class='tableauViz' style='display:none;'>
-              <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-              <param name='embed_code_version' value='3' /> 
-              <param name='site_root' value='' />
-              <param name='name' value='elections_2012_2016_v2&#47;Dashboard1' />
-              <param name='tabs' value='no' />
-              <param name='toolbar' value='yes' />
-              <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_v2&#47;Dashboard1&#47;1.png' /> 
-              <param name='animate_transition' value='yes' />
-              <param name='display_static_image' value='yes' />
-              <param name='display_spinner' value='yes' />
-              <param name='display_overlay' value='yes' />
-              <param name='display_count' value='yes' />
-              <param name='filter' value='publish=yes' />
-            </object>
-                        </div>
+                        <div class='tableauPlaceholder' id='viz1591918539368' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_6_10_2020&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'
+                                style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='elections_2012_2016_6_10_2020&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;el&#47;elections_2012_2016_6_10_2020&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
                         <script type='text/javascript'>
-                            var divElement = document.getElementById('viz1591662626803');
+                            var divElement = document.getElementById('viz1591918539368');
                             var vizElement = divElement.getElementsByTagName('object')[0];
-                            if (divElement.offsetWidth > 800) {
-                                vizElement.style.minWidth = '420px';
-                                vizElement.style.maxWidth = '1150px';
+                            if (divElement.offsetWidth > 1200) {
                                 vizElement.style.width = '100%';
-                                vizElement.style.minHeight = '587px';
-                                vizElement.style.maxHeight = '1287px';
                                 vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
                             } else if (divElement.offsetWidth > 500) {
-                                vizElement.style.minWidth = '420px';
-                                vizElement.style.maxWidth = '1150px';
                                 vizElement.style.width = '100%';
-                                vizElement.style.minHeight = '587px';
-                                vizElement.style.maxHeight = '1287px';
                                 vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
                             } else {
                                 vizElement.style.width = '100%';
-                                vizElement.style.height = '727px';
+                                vizElement.style.height = '1027px';
                             }
                             var scriptElement = document.createElement('script');
                             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
