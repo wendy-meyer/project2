@@ -1,52 +1,32 @@
-Plotly.d3.csv("../Resources/cleaned_data.csv", function(err, rows) {
+const dropdownMenu = d3.select("#selYear");
+const yearSel = dropdownMenu.property("value");
+// const StatedropdownMenu = d3.select("#selDatasetstate");
+// const stateSel = StatedropdownMenu.property("value");
 
-    function unpack(rows, key) {
-        return rows.map(function(row) { return row[key]; });
-    }
+graphit(2012,'/getStateData/Alabama/');
 
-    var allStateNames = unpack(rows, 'state'),
-        allParties = unpack(rows, 'party'),
-        allCandidates = unpack(rows, 'candidate'),
-        allVotes = unpack(rows, 'candidatevotes'),
-        allYear = unpack(rows, 'year'),
-        listofStates = [],
-        currentState = [],
-        currentYear = [],
-        candidate = [],
-        candidatevote = [],
-        partyName = [];
+d3.selectAll("#selYear").on("change", getData);
+d3.selectAll("#selDatasetstate").on("change", getData);
 
-    for (var i = 0; i < allStateNames.length; i++) {
-        if (listofStates.indexOf(allStateNames[i]) === -1) {
-            listofStates.push(allStateNames[i]);
-        }
-    }
+function getData() {
+    var dropdownMenu = d3.select("#selYear");
+    var yearSel = dropdownMenu.property("value");
+    var StatedropdownMenu = d3.select("#selDatasetstate");
+    var urlSel = StatedropdownMenu.property("value");
+    graphit(yearSel, urlSel);
+}
 
-    function getStateData(chosenState) {
-        candidatevote = [];
-        partyName = [];
-        candidate = [];
-        currentYear = [];
-        for (var i = 0; i < allStateNames.length; i++) {
-            if (allStateNames[i] === chosenState) {
-                candidatevote.push(allVotes[i]);
-                partyName.push(allParties[i]);
-                candidate.push(allCandidates[i]);
-                currentYear.push();
-            }
-        }
-    };
+function graphit(yearSel, urlSel) {
+    Plotly.d3.json(urlSel.concat(yearSel), (err, rows) => {
+        //Filter the data by the dropdown selections
+        const data = rows.filter(r => (r.party !== null));
 
-    // Default State Data
-    setPiePlot('Alabama');
-
-    function setPiePlot(chosenState) {
-        getStateData(chosenState);
-
-
-        var pieTrace = {
-            values: candidatevote,
-            labels: partyName,
+        const trace = [{
+            type: 'pie',
+            values: data.map(d => d.candidatevotes),
+            labels: data.map(d => d.party),
+            hovertext: data.map(d => d.candidate),
+            showlegend: true,
             marker: {
                 'colors': [
                     'red',
@@ -60,84 +40,39 @@ Plotly.d3.csv("../Resources/cleaned_data.csv", function(err, rows) {
                     'grey',
                     'pink'
                 ]
-            },
-            hovertext: candidate,
-            // hoverinfo: 'hovertext',
-            type: 'pie'
-        };
+            }
+        }]
 
-        var pieLayout = {
+        const layout1 = {
+            autosize: true,
             title: "Presidential Candidate Data",
+            width: 500,
+            height: 500,
             legend: {
                 'x': .75,
                 'y': 0,
                 'orientation': 'h'
             }
-        };
-
-        // var pieID = document.getElementById('pie');
-        Plotly.plot('pie', [pieTrace], pieLayout);
-
-    };
-
-    var stateSelector = document.querySelector("#selDatasetstate");
-
-
-    function assignOptions(textArray, selector) {
-        for (var i = 0; i < textArray.length; i++) {
-            var currentOption = document.createElement('option');
-            currentOption.text = textArray[i];
-            selector.appendChild(currentOption);
         }
-    }
+        const trace2 = [{
+            type: 'bar',
+            x: data.map(d => d.countYear),
+            y: data.map(d => d.countTotal)
+        }]
+        const layout2 = {
+            autosize: true,
+            title: "Total Number of Votes Per Year",
+            width: 400,
+            height: 500,
+            xaxis: {
+                type: 'category'
+            },
+            yaxis: {
+                automargin: true
+              }
+        }
 
-    assignOptions(listofStates, stateSelector);
-
-    function updateState() {
-        setPiePlot(stateSelector.value);
-    }
-
-
-
-    stateSelector.addEventListener('change', updateState, false);
-
-});
-
-
-
-d3.select("#selYear").on("change", test)
-d3.select("#selDatasetstate").on("change", test)
-
-async function test() {
-
-    var data = await d3.csv("../Resources/cleaned_data.csv")
-
-
-    var year = d3.select("#selYear").node().value;
-    console.log(year);
-    var state = d3.select("#selDatasetstate").node().value;
-    console.log(state);
-
-
-
-    var filteredData = data.filter(d => d.year === year && d.state === state && d.party !== "");
-    console.log(filteredData);
-
-    var candidatevotes = filteredData.map(d => +d.candidatevotes)
-        // console.log(`Candidate Votes: ${candidatevotes}`)
-
-    var candidates = filteredData.map(d => d.candidate)
-        // console.log(`Candidates: ${candidates}`)
-
-    var parties = filteredData.map(d => d.party)
-        // console.log(`Party: ${parties}`)
-
-
-
-
-
-    Plotly.restyle("pie", "values", [candidatevotes]);
-    Plotly.restyle("pie", "labels", [parties]);
-    // Plotly.restyle("pie", "title", [state]);
-
-};
+        Plotly.newPlot('pie', trace, layout1)
+        Plotly.newPlot('bar', trace2, layout2)
+    })
+}

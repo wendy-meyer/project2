@@ -6,6 +6,7 @@ from flask import (
     jsonify,
     request,
     redirect)
+import json
 from sqlalchemy.dialects.postgresql import JSON
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
@@ -47,11 +48,34 @@ db.init_app(app)
 @app.route("/")
 def home():
     from models import Votes
-    results = db.session.query(Votes).distinct()
+    curState = "Alabama"
+    results = db.session.query(Votes).distinct(Votes.state)
     states = []
     for r in results:
         states.append(r.state)
-    return render_template("index.html", states=states)
+    return render_template("index.html", states=states, curState=curState)
+
+@app.route("/getStateData/<curState>/<year>", methods=['GET','POST'])
+def getStateData(curState,year):
+    from models import Votes
+    stateQuery = db.session.query(Votes).filter(Votes.state==curState, Votes.year==int(year)).all()
+    stateData = []
+    for r in stateQuery:
+        stateDict = {
+            'state': r.state,
+            'party': r.party,
+            'candidate': r.candidate,
+            'candidatevotes': r.candidatevotes
+        }
+        stateData.append(stateDict)
+    countsQuery = db.session.query(Votes).filter(Votes.state==curState).distinct(Votes.totalvotes)
+    for r in countsQuery:
+        countDict = {
+            "countYear": r.year,
+            "countTotal": r.totalvotes
+        }
+        stateData.append(countDict)
+    return jsonify(stateData)
 
 if __name__ == "__main__":
     app.run()
