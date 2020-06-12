@@ -22,6 +22,36 @@ function graphit(yearSel, stateSel) {
         const filteredStates = rows.filter((x, i) => {
             return rows.findIndex(y => x.state === y.state) === i
         });
+        const filteredParty = rows.filter((x, i) => {
+            return rows.findIndex(y => x.party === y.party) === i
+        });
+        console.log(filteredParty);
+        var filteredParty2 = filteredParty.map(row =>{
+            return row.party
+        })
+
+        var otherColors = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6', 
+        '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
+        '#80B300', '#809900', '#E6B3B3', '#6680B3', '#66991A', 
+        '#FF99E6', '#CCFF1A', '#FF1A66', '#E6331A', '#33FFCC',
+        '#66994D', '#B366CC', '#4D8000', '#B33300', '#CC80CC', 
+        '#66664D', '#991AFF', '#E666FF', '#4DB3FF', '#1AB399',
+        '#E666B3', '#33991A', '#CC9999', '#B3B31A', '#00E680', 
+        '#4D8066', '#809980', '#E6FF80', '#1AFF33', '#999933',
+        '#FF3380', '#CCCC00', '#66E64D', '#4D80CC', '#9900B3', 
+        '#E64D66', '#4DB380', '#FF4D4D', '#99E6E6', '#6666FF', 
+        '#8A2BE2', '#F0FFFF','#7FFFD4', '#5F9EA0', '#7FFF00' ];
+
+        var dict = {};
+        filteredParty2.forEach((party, i)=> {
+            dict[party] = otherColors[i];
+        }
+        )
+        console.log(dict);
+
+        console.log("Party:");
+        console.log(filteredParty2);
+
         //Add the list of unique states to the drop down.
         const stateDropDown = document.getElementById('selDatasetstate');
         filteredStates.forEach(item => {
@@ -36,24 +66,58 @@ function graphit(yearSel, stateSel) {
         console.log(stateSel);
         console.log(rows.filter(r => (r.state === stateSel)));
 
+        // var getColor = {
+        //     'Democrat': 'blue',
+        //     'Republican': 'red',
+        // };
+        // function markerColors(party){
+        //     if(party==="Democrat"){
+        //         console.log("Demo!");
+        //         return "blue"
+        //     }
+        //     else if (party==="Republican"){
+        //         console.log("Rep!");
+        //         return "red"
+        //     }
+        //     else {
+        //         console.log("Other");
+        //         return "orange"
+        //     }
+        // }
+        
+        
         const trace = [{
             type: 'pie',
             values: data.map(d => d.candidatevotes),
             labels: data.map(d => d.party),
             showlegend: true,
             marker: {
-                'colors': [
-                    'red',
-                    'blue',
-                    'green',
-                    'yellow',
-                    'purple',
-                    'orange',
-                    'brown',
-                    'black',
-                    'grey',
-                    'pink'
-                ]
+                'colors':data.map(d => {
+                    if(d.party==="Democrat"){
+                        console.log("Demo!");
+                        return "blue"
+                    }
+                    else if (d.party==="Republican"){
+                        console.log("Rep!");
+                        return "red"
+                    }
+                    else {
+                        console.log("Other");
+                        return dict[d.party];
+                    }})
+
+                // 'colors': [ 
+                //     'red',
+                //     'blue',
+                //     'green',
+                //     'yellow',
+                //     'purple',
+                //     'orange',
+                //     'brown',
+                //     'black',
+                //     'grey',
+                //     'pink'
+                // ]
             }
         }]
 
