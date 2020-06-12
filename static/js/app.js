@@ -21,9 +21,6 @@ function graphit(yearSel, urlSel) {
         const filteredStates = rows.filter((x, i) => {
             return rows.findIndex(y => x.state === y.state) === i
         });
-        const filteredParty = rows.filter((x, i) => {
-            return rows.findIndex(y => x.party === y.party) === i
-        });
         //Filter the data by the dropdown selections
         const data = rows.filter(r => (r.party !== null));
         const filteredParty = rows.filter((x, i) => {
@@ -48,7 +45,6 @@ function graphit(yearSel, urlSel) {
         var dict = {};
         filteredParty2.forEach((party, i)=> {
             dict[party] = otherColors[i];
-            console.log(party);
         }
         )
         // const data = rows.filter(r => (r.state === stateSel && r.year === yearSel && r.party !== ""));
@@ -65,15 +61,12 @@ function graphit(yearSel, urlSel) {
             marker: {
                 'colors':data.map(d => {
                     if(d.party==="Democrat"){
-                        console.log("Demo!");
                         return "blue"
                     }
                     else if (d.party==="Republican"){
-                        console.log("Rep!");
                         return "red"
                     }
                     else {
-                        console.log("Other");
                         return dict[d.party];
                     }})
             }
