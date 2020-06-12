@@ -68,10 +68,15 @@ Plotly.d3.csv("../Resources/cleaned_data.csv", function(err, rows) {
 
         var pieLayout = {
             title: "Presidential Candidate Data",
+            legend: {
+                'x': .75,
+                'y': 0,
+                'orientation': 'h'
+            }
         };
 
-        var pieID = document.getElementById('pie');
-        Plotly.plot(pieID, [pieTrace], pieLayout);
+        // var pieID = document.getElementById('pie');
+        Plotly.plot('pie', [pieTrace], pieLayout);
 
     };
 
@@ -113,7 +118,9 @@ async function test() {
     var state = d3.select("#selDatasetstate").node().value;
     console.log(state);
 
-    var filteredData = data.filter(d => d.year === year && d.state === state);
+
+
+    var filteredData = data.filter(d => d.year === year && d.state === state && d.party !== "");
     console.log(filteredData);
 
     var candidatevotes = filteredData.map(d => +d.candidatevotes)
@@ -125,21 +132,12 @@ async function test() {
     var parties = filteredData.map(d => d.party)
         // console.log(`Party: ${parties}`)
 
-    var pieTrace = {
-        values: candidatevotes,
-        labels: parties,
-        hovertext: candidates,
-        hoverinfo: 'hovertext',
-        type: 'pie',
-
-    };
-
-    var pieLayout = {
-        // title: `Pie Chart `,
-    };
 
 
-    Plotly.plot("pie", [pieTrace], pieLayout);
 
+
+    Plotly.restyle("pie", "values", [candidatevotes]);
+    Plotly.restyle("pie", "labels", [parties]);
+    // Plotly.restyle("pie", "title", [state]);
 
 };
