@@ -27,8 +27,8 @@ db = SQLAlchemy()
 POSTGRES = {
     'user': sql_user,
     'pw': sql_pw,
-    'db': 'voting_db',
-    'host': 'localhost',
+    'db': 'dd7eb7i2vanv98',
+    'host': 'ec2-52-87-135-240.compute-1.amazonaws.com',
     'port': '5432',
 }
 
@@ -55,6 +55,7 @@ def home():
         states.append(r.state)
     return render_template("index.html", states=states, curState=curState)
 
+#data fetching route
 @app.route("/getStateData/<curState>/<year>", methods=['GET','POST'])
 def getStateData(curState,year):
     from models import Votes
