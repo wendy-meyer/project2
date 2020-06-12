@@ -18,6 +18,12 @@ function getData() {
 
 function graphit(yearSel, urlSel) {
     Plotly.d3.json(urlSel.concat(yearSel), (err, rows) => {
+        const filteredStates = rows.filter((x, i) => {
+            return rows.findIndex(y => x.state === y.state) === i
+        });
+        const filteredParty = rows.filter((x, i) => {
+            return rows.findIndex(y => x.party === y.party) === i
+        });
         //Filter the data by the dropdown selections
         const data = rows.filter(r => (r.party !== null));
         const filteredParty = rows.filter((x, i) => {
@@ -26,7 +32,7 @@ function graphit(yearSel, urlSel) {
         var filteredParty2 = filteredParty.map(row =>{
             return row.party
         })
-        
+
         var otherColors = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6', 
         '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
         '#80B300', '#809900', '#E6B3B3', '#6680B3', '#66991A', 
@@ -42,8 +48,13 @@ function graphit(yearSel, urlSel) {
         var dict = {};
         filteredParty2.forEach((party, i)=> {
             dict[party] = otherColors[i];
+            console.log(party);
         }
         )
+        // const data = rows.filter(r => (r.state === stateSel && r.year === yearSel && r.party !== ""));
+        // console.log("StateSel:");
+        // console.log(stateSel);
+        // console.log(rows.filter(r => (r.state === stateSel)));
 
         const trace = [{
             type: 'pie',
