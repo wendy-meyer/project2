@@ -4,12 +4,12 @@
 
 CREATE TABLE "US_Presidents_data" (
     "rowid" serial,
-    "year" char(6)   ,
-    "state" varchar(256)   ,
-    "party" varchar(256)   ,
-    "candidate" varchar(256)   ,
-    "writein" varchar(256)   ,
-    "candidatevotes" float  ,
+    "year" integer,
+    "state" varchar(256),
+    "party" varchar(256),
+    "candidate" varchar(256),
+    "writein" varchar(256),
+    "candidatevotes" float,
     "totalvotes" float
 );
 
