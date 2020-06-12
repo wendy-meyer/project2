@@ -20,6 +20,9 @@ function graphit(yearSel, urlSel) {
     Plotly.d3.json(urlSel.concat(yearSel), (err, rows) => {
         //Filter the data by the dropdown selections
         const data = rows.filter(r => (r.party !== null));
+        const filteredParty = rows.filter((x, i) => {
+            return rows.findIndex(y => x.party === y.party) === i
+        });
         var filteredParty2 = filteredParty.map(row =>{
             return row.party
         })
