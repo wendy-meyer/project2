@@ -3,7 +3,7 @@ const yearSel = dropdownMenu.property("value");
 // const StatedropdownMenu = d3.select("#selDatasetstate");
 // const stateSel = StatedropdownMenu.property("value");
 
-graphit(2012,'/getStateData/Alabama/');
+graphit(2016,'/getStateData/Wyoming/');
 
 d3.selectAll("#selYear").on("change", getData);
 d3.selectAll("#selDatasetstate").on("change", getData);
@@ -77,11 +77,11 @@ function graphit(yearSel, urlSel) {
             title: "Presidential Candidate Data",
             width: 500,
             height: 500,
-            legend: {
-                'x': .75,
-                'y': 0,
-                'orientation': 'h'
-            }
+            // legend: {
+            //     'x': .75,
+            //     'y': 0,
+            //     'orientation': 'h'
+            // }
         }
         const trace2 = [{
             type: 'bar',
