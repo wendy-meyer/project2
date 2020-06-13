@@ -1,3 +1,12 @@
 .jumbotron {
-    text-align: center;
+    text-align: right;
+    color: white;
+    background-image: url("/static/images/vote.jfif");
+    background-size: cover;
+    background-position: center;
+}
+
+#underline {
+    width: 55%;
+    margin-right: 10px;
 }
