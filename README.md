@@ -1,4 +1,4 @@
-# project2
+# Election Voting Data Visualization
 The application is hosted at the following URL:
 https://dataviz-prj2-voting-app.herokuapp.com/
 
